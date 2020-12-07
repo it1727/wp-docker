@@ -1,0 +1,1126 @@
+# Translation of Themes - Shop Isle in Czech
+# This file is distributed under the same license as the Themes - Shop Isle package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-03-24 08:35:12+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n >= 2 && n <= 4) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: cs_CZ\n"
+"Project-Id-Version: Themes - Shop Isle\n"
+
+#. Theme Name of the theme
+#: inc/functions/setup.php:400 inc/functions/setup.php:407
+#: inc/functions/setup.php:414 inc/sections/shop_isle_slider_section.php:28
+#: inc/sections/shop_isle_slider_section.php:35
+#: inc/sections/shop_isle_slider_section.php:42
+#: inc/customizer/customize-pro/class-shopisle-customizer-upsell.php:90
+msgid "Shop Isle"
+msgstr "Shop Isle"
+
+#: inc/admin/functions.php:66
+msgid "See Neve theme"
+msgstr "Prohlédnout šablonu Neve"
+
+#. translators: %s - theme name
+#: inc/admin/functions.php:62
+msgid "%s is no longer maintained"
+msgstr "%s již není udržován"
+
+#: inc/admin/class-shopisle-admin-page.php:127
+msgid "Changelog"
+msgstr "Výpis změn"
+
+#: inc/admin/class-shopisle-admin-page.php:114
+msgid "Speed up your site"
+msgstr "Zrychlete svůj web"
+
+#: inc/admin/class-shopisle-admin-page.php:106
+#: inc/admin/class-shopisle-admin-page.php:117
+msgid "View how to do this"
+msgstr "Podívat se, jak to udělat"
+
+#: inc/admin/class-shopisle-admin-page.php:91
+#: inc/admin/class-shopisle-admin-page.php:95
+msgid "Contact Support"
+msgstr "Kontaktujte podporu"
+
+#: inc/admin/class-shopisle-admin-page.php:75
+msgid "Useful Plugins"
+msgstr "Užitečné pluginy"
+
+#: inc/admin/class-shopisle-admin-page.php:51
+msgid "Read full documentation"
+msgstr "Přečtěte si dokumentaci"
+
+#: inc/admin/class-shopisle-admin-page.php:47
+msgid "Recommended actions"
+msgstr "Doporučené akce"
+
+#: inc/admin/class-shopisle-admin-page.php:44
+msgid "Getting Started"
+msgstr "Začínáme"
+
+#. translators: %s - theme name
+#: inc/admin/class-shopisle-admin-page.php:37
+msgid "Submit a review"
+msgstr "Odeslat hodnocení"
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:350
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Aktualizace k dispozici pro: %1$s."
+msgstr[1] "Aktualizace k dispozici pro: %1$s."
+msgstr[2] "Aktualizací k dispozici pro: %1$s."
+
+#: inc/customizer/features/feature-slider-shortcode.php:26
+msgid "You can replace the homepage slider with any plugin you like, just copy the shortcode generated and paste it here."
+msgstr "Zde můžete nahradit slider domovské stránky libovolným vlastním pluginem. Stačí sem vložit příslušný short code."
+
+#: inc/customizer/features/feature-slider-shortcode.php:25
+msgid "Slider shortcode"
+msgstr "Slider shortcode"
+
+#: inc/woocommerce/functions.php:731
+#: inc/sections/shop_isle_products_section.php:214
+#: inc/sections/shop_isle_products_slider_section.php:151
+#: inc/sections/shop_isle_products_slider_section.php:224
+msgid "Out of Stock"
+msgstr "Není skladem"
+
+#: inc/frontpage-manager.php:31
+msgid "Keep the old static frontpage template?"
+msgstr "Zachovat starou statickou šablonu"
+
+#: inc/customizer/functions.php:41 inc/admin/class-shopisle-admin-page.php:87
+msgid "Support"
+msgstr "Podpora"
+
+#: inc/customizer/features/feature-frontpage-video-section-controls.php:94
+msgid "Video thumbnail"
+msgstr "Náhled videa"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:629
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:667
+msgid "Add icon"
+msgstr "Přidat ikonu"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:604
+msgid "Social icons"
+msgstr "Sociální ikony"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:590
+msgid "None"
+msgstr "None"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:585
+msgid "Image type"
+msgstr "Typ obrázku"
+
+#. translators: Fontawesome link with full list of icons available
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:533
+msgid "here"
+msgstr "zde"
+
+#. translators: Fontawesome link with full list of icons available
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:531
+msgid "Some icons may not be displayed here. You can see the list of icons %1$s"
+msgstr "Některé ikony se zde nezobrazí. Můžete se podívat na seznam ikon %1$s"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:359
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:462
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:224
+msgid "Add new field"
+msgstr "Přidat nové pole"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:114
+msgid "Customizer Repeater"
+msgstr "Customizer Repeater"
+
+#: inc/customizer/customize-pro/class-shopisle-customizer-upsell.php:114
+msgid "Static Front Page"
+msgstr "Statická hlavní strana"
+
+#: inc/init.php:21
+msgid "Categories Section"
+msgstr "Sekce kategoorií"
+
+#: inc/customizer/class/class-shop-isle-pro-palette.php:60
+#: inc/customizer/class/class-shop-isle-pro-palette.php:69
+msgid "Default"
+msgstr "Default"
+
+#: inc/admin/class-shopisle-admin-page.php:34
+msgid "Leave us a review"
+msgstr "Ohodnotit"
+
+#. translators: 1: Link to WPForms Plugin.
+#: inc/customizer/features/feature-contact-controls.php:39
+msgid "Create a form, copy the shortcode generated and paste it here. We recommend %1$s but you can use any plugin you like."
+msgstr "Vytvořte formulář, a zde zkopírujte vygenerovaný shortcode. Pro formluáře doporučujeme %1$s ale můžete použít kterýkoliv Vámi oblíbený plugin."
+
+#: inc/customizer/features/feature-frontpage-products-slider-section-controls.php:29
+#: inc/customizer/features/feature-frontpage-products-section-controls.php:31
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: inc/sections/shop_isle_products_slider_section.php:31
+msgid "For this section to work, you first need to install the WooCommerce plugin , create some products, and select a product category in Customize -> Frontpage sections -> Products slider section"
+msgstr "Pro funkčnost této funkce, musíte nejdříve nainstalovat plugin WooCommerce, vytvořit pár produktů a vybrat kategorii produktů v Přizpůsobit -> Sekce úvodní stránky -> Sekce produktového slideru"
+
+#: inc/sections/shop_isle_products_section.php:110
+msgid "For this section to work, you first need to install the WooCommerce plugin , create some products, and insert a WooCommerce shortocode or select a product category in Customize -> Frontpage sections -> Products section"
+msgstr "Pro zpřístupnění této sekce musíte njeprve nainstalovat plugin WooCommerce, vytvořit nějaké produkty a vložit WooCommerce shortcode nebo vybrat kategorii produktu v Přizpůsobit -> Sekce úvodní stránky ->Sekce produkty"
+
+#: inc/sections/shop_isle_products_section.php:108
+msgid "No products found."
+msgstr "Žádný produkt nebyl nalezen."
+
+#: inc/sections/shop_isle_products_section.php:233
+#: inc/sections/shop_isle_products_section.php:235
+msgid "See all products"
+msgstr "Zobrazit veškeré produkty"
+
+#: inc/sections/shop_isle_products_section.php:174
+#: inc/sections/shop_isle_products_section.php:181
+msgid "Quick View"
+msgstr "Rychlý náhled"
+
+#. translators: s: Search term.
+#: search.php:29
+msgid "Search Results for: %s"
+msgstr "Výsledky vyhledávání: %s"
+
+#. translators: d: number of items.
+#: inc/woocommerce/template-tags.php:27
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d položka"
+msgstr[1] "%d položky"
+msgstr[2] "%d položek"
+
+#: inc/structure/template-tags.php:175
+msgid "On Sale"
+msgstr "Výprodej"
+
+#: inc/structure/template-tags.php:139
+msgid "Top Rated Products"
+msgstr "Nejoblíbenější produkty"
+
+#: inc/structure/template-tags.php:103
+msgid "Featured Products"
+msgstr "Související produkty"
+
+#: inc/structure/template-tags.php:65
+msgid "Recent Products"
+msgstr "Nedávné produkty"
+
+#: inc/structure/template-tags.php:29
+msgid "Product Categories"
+msgstr "Kategorie produktů"
+
+#. translators: s: category name
+#: inc/structure/post.php:165
+msgid "View all posts in %s"
+msgstr "Zobrazit veškeré příspěvky z rubriky %s"
+
+#: inc/structure/post.php:151
+msgid "1 Comment"
+msgstr "1 komentář"
+
+#: inc/structure/post.php:149
+msgid " Comments"
+msgstr "Komentáře"
+
+#: inc/structure/post.php:147
+msgid "No Comments"
+msgstr "Žádné komentáře"
+
+#: inc/structure/post.php:127
+msgid "By "
+msgstr "Autor"
+
+#: inc/structure/post.php:98
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Novější příspěvky <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/structure/post.php:95
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Starší příspěvky"
+
+#: inc/structure/post.php:92
+msgid "Posts navigation"
+msgstr "Navigace pro příspěvky"
+
+#. translators: s: post title
+#: inc/structure/post.php:59
+msgid "Tagged %1$s"
+msgstr "Označeno %1$s"
+
+#: inc/structure/post.php:55
+msgid ", "
+msgstr ", "
+
+#. translators: s: post title
+#: inc/structure/post.php:40
+msgid "Continue reading %s"
+msgstr "Pokračovat ve čtení %s"
+
+#: inc/structure/post.php:47 inc/structure/page.php:22
+msgid "Pages:"
+msgstr "Stránky:"
+
+#: inc/structure/header.php:128
+msgctxt "submit button"
+msgid "Search"
+msgstr "Hledat"
+
+#: inc/structure/header.php:127
+msgctxt "label"
+msgid "Search for:"
+msgstr "Vyhledávání:"
+
+#: inc/structure/header.php:127
+msgctxt "placeholder"
+msgid "Search Products&hellip;"
+msgstr "Hledat produkty&hellip;"
+
+#: inc/structure/header.php:96
+msgid "Toggle navigation"
+msgstr "Přepnout navigaci"
+
+#: inc/structure/footer.php:95
+msgid "powered by"
+msgstr "Za podpory"
+
+#: inc/structure/comments.php:76
+msgid "Edit"
+msgstr "Upravit"
+
+#: inc/structure/comments.php:48
+msgid "Your comment is awaiting moderation."
+msgstr "Váš komentář čeká na schválení."
+
+#: inc/woocommerce/template-tags.php:19 inc/structure/header.php:136
+#: inc/init.php:149
+msgid "View your shopping cart"
+msgstr "Zobrazit nákupní košík"
+
+#: inc/functions/setup.php:595
+msgid "Easy to use"
+msgstr "Jednoduché použití"
+
+#: inc/functions/setup.php:590
+msgid "Highly customizable"
+msgstr "Vysoce přizpůsobitelné"
+
+#: inc/functions/setup.php:585
+msgid "Designs & interfaces"
+msgstr "Vzhled a rozhraní"
+
+#: inc/functions/setup.php:581 inc/functions/setup.php:586
+#: inc/functions/setup.php:591 inc/functions/setup.php:596
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+
+#: inc/functions/setup.php:580
+msgid "Ideas and concepts"
+msgstr "Nápady a návrhy"
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:344
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Následující plugin potřebuje aktualizovat na poslední verzi pro zajištění maximální kompatibility s šablonou: %1$s."
+msgstr[1] "Následující pluginy potřebují aktualizovat na poslední verzi pro zajištění maximální kompatibility s šablonou: %1$s."
+msgstr[2] "Následující pluginy potřebují aktualizovat na poslední verzi pro zajištění maximální kompatibility s šablonou: %1$s."
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:362
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Následující doporučený plugin je v současné době deaktivovaný: %1$s."
+msgstr[1] "Následující doporučené pluginy jsou v současné době deaktivovány: %1$s."
+msgstr[2] "Následující doporučené pluginy jsou v současné době deaktivovány: %1$s."
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:356
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Následující požadovaný plugin je v současné době deaktivovaný: %1$s."
+msgstr[1] "Následující požadované pluginy jsou v současné době deaktivovány: %1$s."
+msgstr[2] "Následující požadované pluginy jsou v současné době deaktivovány: %1$s."
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:338
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Tato šablona doporučuje následující plugin:%1$s."
+msgstr[1] "Tato šablona doporučuje následující pluginy:%1$s."
+msgstr[2] "Tato šablona doporučuje následující pluginy:%1$s."
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:332
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Tato šablona vyžaduje následující plugin: %1$s."
+msgstr[1] "Tato šablona vyžaduje následující pluginy: %1$s."
+msgstr[2] "Tato šablona vyžaduje následující pluginy: %1$s."
+
+#: inc/functions/setup.php:294
+msgid "Sidebar Shop Page"
+msgstr "Postranní panel stránky obchodu"
+
+#: inc/functions/setup.php:283
+msgid "Footer area 4"
+msgstr "Oblast zápatí 4"
+
+#: inc/functions/setup.php:272
+msgid "Footer area 3"
+msgstr "Oblast zápatí 3"
+
+#: inc/functions/setup.php:261
+msgid "Footer area 2"
+msgstr "Oblast zápatí 2"
+
+#: inc/functions/setup.php:250
+msgid "Footer area 1"
+msgstr "Oblast zápatí 1"
+
+#: inc/functions/setup.php:239
+#: inc/compatibility/wordpress-editor/wp-editor.php:49
+msgid "Sidebar"
+msgstr "Postranní panel"
+
+#: inc/functions/setup.php:149 inc/flag-wporg.php:35
+msgid "Primary Menu"
+msgstr "Primární menu"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:392
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:481
+msgid "Delete field"
+msgstr "Smazat pole"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:350
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:454
+msgid "Button Label"
+msgstr "Text tlačíka"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:368
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:470
+msgid "Description"
+msgstr "Popis"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:572
+msgid "Upload Image"
+msgstr "Nahrát obrázek"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:525
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:588
+msgid "Icon"
+msgstr "Ikona"
+
+#: inc/customizer/functions.php:40
+#: inc/customizer/customize-pro/class-shopisle-customizer-upsell.php:92
+#: inc/admin/class-shopisle-admin-page.php:55
+msgid "Documentation"
+msgstr "Dokumentace"
+
+#: inc/customizer/features/feature-advanced-controls.php:37
+msgid "Disable preloader?"
+msgstr "Zakázat přednačítání?"
+
+#: inc/customizer/features/feature-advanced-controls.php:19
+msgid "Advanced options"
+msgstr "Pokročilé nastavení"
+
+#: inc/customizer/features/feature-404-controls.php:71
+msgid "Text"
+msgstr "Text"
+
+#: inc/customizer/features/feature-404-controls.php:31
+msgid "Background image"
+msgstr "Obrázek pozadí"
+
+#: inc/customizer/features/feature-contact-controls.php:63
+msgid "Map shortcode"
+msgstr "Mapa shortcode"
+
+#: inc/customizer/features/feature-contact-controls.php:36
+msgid "Contact form shortcode"
+msgstr "Kontaktní formulář shortcode"
+
+#. Template Name of the theme
+#: inc/customizer/features/feature-contact-controls.php:20
+#: inc/customizer/features/feature-contact-controls.php:76
+msgid "Contact page"
+msgstr "Kontaktní stránka"
+
+#: inc/customizer/features/feature-footer-controls.php:88
+msgid "Social"
+msgstr "Sociální sítě"
+
+#: inc/customizer/features/feature-footer-controls.php:77
+#: inc/customizer/features/feature-footer-controls.php:89
+msgid "Add new social"
+msgstr "Přidat novu sociální ikonu"
+
+#: inc/customizer/features/feature-footer-controls.php:57
+msgid "Hide site info?"
+msgstr "Skrýt informace o stránce?"
+
+#: inc/customizer/features/feature-footer-controls.php:38
+msgid "Copyright"
+msgstr "Copyright"
+
+#: inc/customizer/features/feature-footer-controls.php:21
+msgid "Footer"
+msgstr "Zápatí"
+
+#: inc/customizer/features/feature-frontpage-products-slider-section-controls.php:159
+msgid "If no category is selected , WooCommerce products from the first category found are displaying."
+msgstr "Pokud nevyberete žádnu kategorii, budou použity produkty WooCommerce z první nalezené kategorie."
+
+#: inc/customizer/features/feature-frontpage-products-slider-section-controls.php:116
+msgid "Section subtitle"
+msgstr "Podnadpis sekce"
+
+#: inc/woocommerce/functions.php:381
+#: inc/customizer/features/feature-frontpage-products-slider-section-controls.php:109
+msgid "Special category of products"
+msgstr "Jedinečná kategorie produktů"
+
+#: inc/woocommerce/functions.php:380
+#: inc/sections/shop_isle_products_slider_section.php:29
+#: inc/customizer/features/feature-frontpage-products-slider-section-controls.php:90
+msgid "Exclusive products"
+msgstr "Exkluzivní produkty"
+
+#: inc/customizer/features/feature-frontpage-products-slider-section-controls.php:78
+msgid "Hide products slider section on single product page?"
+msgstr "Skrýt na stránkách jednotlivých produktů sekci produktového slideru?"
+
+#: inc/customizer/features/feature-frontpage-products-slider-section-controls.php:59
+msgid "Hide products slider section on frontpage?"
+msgstr "Skrýt na úvodní stránce sekci produktového slideru?"
+
+#: inc/customizer/features/feature-frontpage-products-slider-section-controls.php:39
+msgid "Products slider section"
+msgstr "Sekce produktového slideru"
+
+#: inc/customizer/features/feature-frontpage-video-section-controls.php:75
+msgid "Youtube link"
+msgstr "Odkaz YouTube"
+
+#: inc/customizer/features/feature-frontpage-video-section-controls.php:40
+msgid "Hide video section?"
+msgstr "Skrýt sekci videa?"
+
+#: inc/customizer/features/feature-frontpage-video-section-controls.php:21
+msgid "Video section"
+msgstr "Sekce videa"
+
+#: inc/customizer/features/feature-frontpage-products-section-controls.php:136
+msgid "OR pick a product category. If no shortcode or no category is selected , WooCommerce latest products are displaying."
+msgstr "nebo vyberte kategorii produktu. Pokud nezadáte shortcode nebo kategorii, pak se budou zobrazovat nejnovější produkty WooCommerce."
+
+#: inc/customizer/features/feature-frontpage-products-slider-section-controls.php:155
+#: inc/customizer/features/feature-frontpage-products-section-controls.php:135
+msgid "Products category"
+msgstr "Kategorie produktu"
+
+#: inc/customizer/features/feature-frontpage-products-slider-section-controls.php:124
+#: inc/customizer/features/feature-frontpage-products-section-controls.php:104
+msgid "Select category"
+msgstr "Vybrat rubriku"
+
+#: inc/customizer/features/feature-frontpage-products-section-controls.php:97
+msgid "Insert a WooCommerce shortcode"
+msgstr "Vložte WooCommerce shortcode"
+
+#: inc/customizer/features/feature-frontpage-products-section-controls.php:95
+msgid "WooCommerce shortcode"
+msgstr "WooCommerce shortcode"
+
+#: inc/customizer/features/feature-frontpage-products-slider-section-controls.php:97
+#: inc/customizer/features/feature-frontpage-banners-section-controls.php:56
+#: inc/customizer/features/feature-frontpage-products-section-controls.php:78
+msgid "Section title"
+msgstr "Nadpis sekce"
+
+#: inc/sections/shop_isle_products_section.php:29
+#: inc/customizer/features/feature-frontpage-products-section-controls.php:71
+msgid "Latest products"
+msgstr "Nejnovější produkty"
+
+#: inc/customizer/features/feature-frontpage-products-section-controls.php:59
+msgid "Hide products section?"
+msgstr "Skrýt sekci produktů?"
+
+#: inc/customizer/features/feature-frontpage-products-section-controls.php:40
+msgid "Products section"
+msgstr "Sekce produktů"
+
+#. translators: 1: Link to WooCommerce Plugin
+#: inc/customizer/features/feature-frontpage-products-slider-section-controls.php:20
+#: inc/customizer/features/feature-frontpage-products-section-controls.php:22
+msgid "To use this section, you are required to first install the  %1$s plugin"
+msgstr "Pro použití této sekce musíte nejprve nainstalovat plugin %1$s"
+
+#: inc/customizer/features/feature-frontpage-banners-section-controls.php:102
+msgid "Banner"
+msgstr "Baner"
+
+#: inc/customizer/features/feature-frontpage-banners-section-controls.php:91
+#: inc/customizer/features/feature-frontpage-banners-section-controls.php:103
+msgid "Add new banner"
+msgstr "Přidat nový baner"
+
+#: inc/customizer/features/feature-frontpage-banners-section-controls.php:39
+msgid "Hide banners section?"
+msgstr "Skrýt sekci banerů?"
+
+#: inc/customizer/features/feature-frontpage-banners-section-controls.php:21
+#: inc/init.php:20
+msgid "Banners section"
+msgstr "Sekce banerů"
+
+#: inc/customizer/features/feature-404-controls.php:90
+#: inc/customizer/features/feature-frontpage-big-title-section-controls.php:137
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:341
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:446
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:624
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:650
+msgid "Button link"
+msgstr "Odkaz tlačítka"
+
+#: inc/customizer/features/feature-frontpage-big-title-section-controls.php:129
+#: inc/customizer/features/feature-frontpage-big-title-section-controls.php:222
+msgid "#"
+msgstr "Č."
+
+#: inc/customizer/features/feature-404-controls.php:109
+#: inc/customizer/features/feature-frontpage-big-title-section-controls.php:118
+msgid "Button label"
+msgstr "Text tlačíka"
+
+#: inc/customizer/features/feature-frontpage-big-title-section-controls.php:99
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:333
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:438
+msgid "Subtitle"
+msgstr "Podnadpis"
+
+#: inc/functions/setup.php:401 inc/functions/setup.php:408
+#: inc/functions/setup.php:415 inc/sections/shop_isle_big_title_section.php:26
+#: inc/sections/shop_isle_slider_section.php:29
+#: inc/sections/shop_isle_slider_section.php:36
+#: inc/sections/shop_isle_slider_section.php:43
+#: inc/customizer/features/feature-frontpage-big-title-section-controls.php:91
+msgid "WooCommerce Theme"
+msgstr "Šablona WooCommerce"
+
+#: inc/customizer/features/feature-404-controls.php:51
+#: inc/customizer/features/feature-frontpage-video-section-controls.php:58
+#: inc/customizer/features/feature-frontpage-big-title-section-controls.php:80
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:317
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:325
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:421
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:429
+msgid "Title"
+msgstr "Název"
+
+#: inc/customizer/features/feature-frontpage-big-title-section-controls.php:60
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:569
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:589
+msgid "Image"
+msgstr "Obrázek"
+
+#: inc/customizer/features/feature-frontpage-big-title-section-controls.php:40
+msgid "Hide big title section?"
+msgstr "Skrýt sekci velký nadpis?"
+
+#: inc/customizer/features/feature-frontpage-big-title-section-controls.php:21
+msgid "Big title section"
+msgstr "Sekce velký název"
+
+#: inc/customizer/customizer.php:32
+msgid "Frontpage sections"
+msgstr "Sekce úvodní stránky"
+
+#: inc/customizer/features/feature-blog-header-controls.php:43
+msgid "Blog header subtitle"
+msgstr "Podnadpis v záhlaví blogu"
+
+#: inc/customizer/features/feature-blog-header-controls.php:26
+msgid "Blog header title"
+msgstr "Nadpis v záhlaví blogu"
+
+#: inc/customizer/features/feature-header-controls.php:16
+msgid "Header"
+msgstr "Záhlaví"
+
+#. translators: 1: Link to documentation page. 2: 'doc'
+#: inc/customizer/class/class-shopisle-contact-page-instructions.php:21
+#: inc/customizer/customize-pro/class-shopisle-customizer-upsell.php:118
+msgid "Need further informations? Check this %1$s"
+msgstr "Potřebujete další informace? Podívejte se na %1$s"
+
+#: inc/customizer/class/class-shopisle-contact-page-instructions.php:22
+#: inc/customizer/customize-pro/class-shopisle-customizer-upsell.php:121
+msgid "doc"
+msgstr "dokumentaci"
+
+#: inc/customizer/class/class-shopisle-contact-page-instructions.php:19
+msgid "To customize the Contact Page you need to first select the template \"Contact page\" for the page you want to use for this purpose. Then open that page in the browser and press \"Customize\" in the top bar."
+msgstr "Pro úpravu kontaktní stránky je nutné nejprve vybrat šablonu \"Kontakt\" pro danou stránku, kterou chcete použít pro tento účel. Pak otevřete příslušnou stránku v prohlížeči a v horní liště stiskněte tlačítko \"Přizpůsobit\"."
+
+#: home.php:39 inc/customizer/features/feature-blog-header-controls.php:18
+msgid "Blog"
+msgstr "Blog"
+
+#: header.php:35
+msgid "Loading..."
+msgstr "Načítání…"
+
+#: content-none.php:36
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Požadovaný obsah se na webu bohužel nenachází. Můžete ale zkusit vyhledávání."
+
+#: content-none.php:31
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Hledaný výraz nebyl nalezen. Zkuste to znovu s jinými klíčovými slovy."
+
+#. translators: 1: link to new post page
+#: content-none.php:23
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Jste připraveni publikovat svůj první příspěvek? <a href=\"%1$s\">Začněte zde</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Nenalezeno"
+
+#: comments.php:74
+msgid "Comments are closed."
+msgstr "Komentáře jsou uzavřeny."
+
+#: comments.php:47 comments.php:67
+msgid "Newer Comments &rarr;"
+msgstr "Novější komentáře &rarr;"
+
+#: comments.php:46 comments.php:66
+msgid "&larr; Older Comments"
+msgstr "&larr; Starší komentáře"
+
+#: comments.php:45 comments.php:65
+msgid "Comment navigation"
+msgstr "Navigace komentářů"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:30
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "1 komentář: &bdquo;%2$s&ldquo;"
+msgstr[1] "%1$s komentáře: &bdquo;%2$s&ldquo;"
+msgstr[2] "%1$s komentářů: &bdquo;%2$s&ldquo;"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3535
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Probíhá instalace pluginu %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3533
+msgid "All installations have been completed."
+msgstr "Veškeré instalace byly dokončeny."
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3532
+msgid "%1$s installed successfully."
+msgstr "Plugin %1$s byl úspěšně nainstalován."
+
+#: class-tgm-plugin-activation.php:3530
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Proces instalace byl zahájen. Na některých serverech může tato operace trvat delší dobu."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3527
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Probíhá instalace a aktivace pluginu %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3525
+msgid "All installations and activations have been completed."
+msgstr "Všechny instalace a aktivace byly úspěšně dokončeny."
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3524 class-tgm-plugin-activation.php:3532
+msgid "Hide Details"
+msgstr "Skrýt podrobnosti"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3524 class-tgm-plugin-activation.php:3532
+msgid "Show Details"
+msgstr "Zobrazit podrobnosti"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3524
+msgid "%1$s installed and activated successfully."
+msgstr "Plugin %1$s byl úspěšně nainstalován a aktivován."
+
+#: class-tgm-plugin-activation.php:3522
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Proces instalace a aktivace byl zahájen. Na některých serverech může tato operace trvat delší dobu."
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3518
+msgid "The installation of %1$s failed."
+msgstr "Instalace pluginu %1$s se nezdařila."
+
+#. translators: 1: plugin name, 2: error message.
+#: class-tgm-plugin-activation.php:3516
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Při instalaci pluginu %1$s došlo k chybě: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3513
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Probíhá aktualizace pluginu %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3171
+msgid "Plugin activation failed."
+msgstr "Aktivace pluginu selhala."
+
+#: class-tgm-plugin-activation.php:2947
+msgid "No plugins are available to be activated at this time."
+msgstr "V tuto chvíli nejsou k dipozici žádné pluginy k aktivaci."
+
+#: class-tgm-plugin-activation.php:2921
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Žádné pluginy nebyly vybrány k aktivaci. Akce nebyla provedena."
+
+#: class-tgm-plugin-activation.php:2815
+msgid "No plugins are available to be updated at this time."
+msgstr "V tuto chvíli nejsou k dipozici žádné pluginy k aktualizaci."
+
+#: class-tgm-plugin-activation.php:2813
+msgid "No plugins are available to be installed at this time."
+msgstr "V tuto chvíli nejsou k dipozici žádné pluginy k instalaci."
+
+#: class-tgm-plugin-activation.php:2772
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Žádné pluginy nebyly vybrány k aktualizaci. Akce nebyla provedena."
+
+#: class-tgm-plugin-activation.php:2770
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Žádné pluginy nebyly vybrány k instalaci. Akce nebyla provedena."
+
+#: class-tgm-plugin-activation.php:2739
+msgid "Activate"
+msgstr "Aktivovat"
+
+#: class-tgm-plugin-activation.php:2736
+msgid "Update"
+msgstr "Aktualizovat"
+
+#: class-tgm-plugin-activation.php:2730
+msgid "Install"
+msgstr "Instalovat"
+
+#: class-tgm-plugin-activation.php:2697
+msgid "Upgrade message from the plugin author:"
+msgstr "Zpráva aktualizace od autora pluginu:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2627
+msgid "Activate %2$s"
+msgstr "Aktivovat %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2621
+msgid "Update %2$s"
+msgstr "Aktualizovat %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2616
+msgid "Install %2$s"
+msgstr "Instalovat %2$s"
+
+#: class-tgm-plugin-activation.php:2567
+msgid "Status"
+msgstr "Stav"
+
+#: class-tgm-plugin-activation.php:2566
+msgid "Version"
+msgstr "Verze"
+
+#: class-tgm-plugin-activation.php:2562
+msgid "Type"
+msgstr "Typ"
+
+#: class-tgm-plugin-activation.php:2561
+msgid "Source"
+msgstr "Zdroj"
+
+#: class-tgm-plugin-activation.php:2560
+msgid "Plugin"
+msgstr "Plugin"
+
+#: class-tgm-plugin-activation.php:2546
+msgid "No plugins to install, update or activate."
+msgstr "Žádné pluginy k instalaci, aktualizaci nebo aktivaci."
+
+#: class-tgm-plugin-activation.php:2523
+msgid "Available version:"
+msgstr "Dostupná verze:"
+
+#: class-tgm-plugin-activation.php:2511
+msgid "Minimum required version:"
+msgstr "Minimální požadovaná verze:"
+
+#: class-tgm-plugin-activation.php:2503
+msgid "Installed version:"
+msgstr "Nainstalovaná verze:"
+
+#: class-tgm-plugin-activation.php:2495
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "neznámá"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2413
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "K aktivaci <span class=\"count\">(%s)</span>"
+msgstr[1] "K aktivaci <span class=\"count\">(%s)</span>"
+msgstr[2] "K aktivaci <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2409
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Dostupné aktualizace <span class=\"count\">(%s)</span>"
+msgstr[1] "Dostupné aktualizace <span class=\"count\">(%s)</span>"
+msgstr[2] "Dostupné aktualizace <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2405
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "K instalaci <span class=\"count\">(%s)</span>"
+msgstr[1] "K instalaci <span class=\"count\">(%s)</span>"
+msgstr[2] "K instalaci <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2401
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Vše <span class=\"count\">(%s)</span>"
+msgstr[1] "Vše <span class=\"count\">(%s)</span>"
+msgstr[2] "Vše <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: class-tgm-plugin-activation.php:2355
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: class-tgm-plugin-activation.php:2346
+msgid "Update recommended"
+msgstr "Doporučeno aktualizovat"
+
+#: class-tgm-plugin-activation.php:2343
+msgid "Requires Update"
+msgstr "Vyžaduje aktualizaci"
+
+#: class-tgm-plugin-activation.php:2340
+msgid "Required Update not Available"
+msgstr "Vyžadovaná aktualizace není dostupná"
+
+#: class-tgm-plugin-activation.php:2334
+msgid "Active"
+msgstr "Aktivní"
+
+#: class-tgm-plugin-activation.php:2332
+msgid "Installed But Not Activated"
+msgstr "Nainstalováno, ale neaktivováno"
+
+#: class-tgm-plugin-activation.php:2328
+msgid "Not Installed"
+msgstr "Není nainstalováno"
+
+#: class-tgm-plugin-activation.php:2311
+msgid "Pre-Packaged"
+msgstr "Součástí šablony"
+
+#: class-tgm-plugin-activation.php:2308
+msgid "External Source"
+msgstr "Externí zdroj"
+
+#: class-tgm-plugin-activation.php:2305
+msgid "WordPress Repository"
+msgstr "Úložiště WordPressu"
+
+#: class-tgm-plugin-activation.php:2289
+msgid "Recommended"
+msgstr "Doporučený"
+
+#: class-tgm-plugin-activation.php:2286
+msgid "Required"
+msgstr "Požadovaný"
+
+#. translators: %s: version number
+#: class-tgm-plugin-activation.php:1995
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: class-tgm-plugin-activation.php:1129 class-tgm-plugin-activation.php:2961
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "a"
+
+#: class-tgm-plugin-activation.php:941
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Vzdálený balíček pluginu obsahuje více než jeden soubor, ale soubory nejsou zabaleny ve složce."
+
+#: class-tgm-plugin-activation.php:933 class-tgm-plugin-activation.php:941
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Obraťte se prosím na poskytovatele pluginu a požádejte jej, aby plugin zabalil dle směrnic WordPressu."
+
+#: class-tgm-plugin-activation.php:933
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Vzdálený komprimovaný plugin neobsahuje složku s vyžadovaným názvem v URL a přejmenování nefunguje."
+
+#: class-tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr "Je vyžadována aktualizace"
+
+#: class-tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Pro zajištění kompatibility s vaší šablonou, je nutné tento plugin aktualizovat."
+
+#: class-tgm-plugin-activation.php:395
+msgid "Please contact the administrator of this site for help."
+msgstr "Pro pomoc, kontaktujte administrátora tohoto webu."
+
+#: class-tgm-plugin-activation.php:394
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Existuje jeden nebo více požadovaných nebo doporučených pluginů k instalaci, aktualizaci, nebo aktivaci."
+
+#: class-tgm-plugin-activation.php:393
+msgid "Dismiss this notice"
+msgstr "Zavřít toto oznámení"
+
+#. translators: 1: dashboard link.
+#: class-tgm-plugin-activation.php:392
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Všechny pluginy byly úspěšně nainstalovány a aktivovány. %1$s"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:390
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Plugin není aktivován. Pro tuto šablonu je zapotřebí vyšší verze pluginu %s. Aktualizujte tento plugin."
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:388
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Nic se nestalo. Plugin %1$s již byl aktivní."
+
+#: class-tgm-plugin-activation.php:386 class-tgm-plugin-activation.php:2965
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Následující plugin byl úspěšně aktivován:"
+msgstr[1] "Následující pluginy byly úspěšně aktivovány:"
+msgstr[2] "Následující pluginy byly úspěšně aktivovány:"
+
+#: class-tgm-plugin-activation.php:385 class-tgm-plugin-activation.php:3172
+msgid "Plugin activated successfully."
+msgstr "Plugin byl úspěšně aktivován."
+
+#: class-tgm-plugin-activation.php:384 class-tgm-plugin-activation.php:825
+#: class-tgm-plugin-activation.php:2546 class-tgm-plugin-activation.php:3595
+msgid "Return to the Dashboard"
+msgstr "Návrat na nástěnku"
+
+#: class-tgm-plugin-activation.php:383
+msgid "Return to Required Plugins Installer"
+msgstr "Návrat do instalátoru požadovaných pluginů"
+
+#: class-tgm-plugin-activation.php:378
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Začít aktivaci pluginu"
+msgstr[1] "Začít aktivaci pluginů"
+msgstr[2] "Začít aktivaci pluginů"
+
+#: class-tgm-plugin-activation.php:373
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Začít aktualizaci pluginu"
+msgstr[1] "Začít aktualizaci pluginů"
+msgstr[2] "Začít aktualizaci pluginů"
+
+#: class-tgm-plugin-activation.php:368
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Začít instalaci pluginu"
+msgstr[1] "Začít instalaci pluginů"
+msgstr[2] "Začít instalaci pluginů"
+
+#: class-tgm-plugin-activation.php:331
+msgid "Something went wrong with the plugin API."
+msgstr "Došlo k potížím s API pluginu."
+
+#. translators: %s: plugin name.
+#: class-tgm-plugin-activation.php:330
+msgid "Updating Plugin: %s"
+msgstr "Aktualizace pluginu: %s"
+
+#. translators: %s: plugin name.
+#: class-tgm-plugin-activation.php:328
+msgid "Installing Plugin: %s"
+msgstr "Instalace pluginu: %s"
+
+#: class-tgm-plugin-activation.php:326
+msgid "Install Plugins"
+msgstr "Instalovat pluginy"
+
+#: class-tgm-plugin-activation.php:325
+msgid "Install Required Plugins"
+msgstr "Instalovat vyžadované pluginy"
+
+#: archive.php:113 home.php:156 index.php:152
+msgid "Newer posts <span class=\"meta-nav\">&raquo;</span>"
+msgstr "Novější příspěvky <span class=\"meta-nav\">&raquo;</span>"
+
+#: archive.php:112 home.php:155 index.php:151
+msgid "<span class=\"meta-nav\">&laquo;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Starší příspěvky"
+
+#: archive.php:98 home.php:141 index.php:137 inc/functions/setup.php:402
+#: inc/functions/setup.php:409 inc/functions/setup.php:416
+#: inc/sections/shop_isle_slider_section.php:30
+#: inc/sections/shop_isle_slider_section.php:37
+#: inc/sections/shop_isle_slider_section.php:44
+#: inc/customizer/features/feature-frontpage-big-title-section-controls.php:110
+#: inc/customizer/features/feature-frontpage-big-title-section-controls.php:221
+#: inc/init.php:200
+msgid "Read more"
+msgstr "Čtěte více"
+
+#: 404.php:45 inc/customizer/features/feature-404-controls.php:101
+msgid "Back to home page"
+msgstr "Zpět na úvodní stránku"
+
+#: inc/customizer/features/feature-404-controls.php:62
+msgid "The requested URL was not found on this server.<br> That is all we know."
+msgstr "Požadovaná URL na tomto serveru nebyla nalezena."
+
+#: 404.php:28 inc/customizer/features/feature-404-controls.php:43
+msgid "Error 404"
+msgstr "Chyba 404"

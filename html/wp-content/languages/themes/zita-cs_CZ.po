@@ -1,0 +1,2072 @@
+# Translation of Themes - Zita in Czech
+# This file is distributed under the same license as the Themes - Zita package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-03-18 13:36:59+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n >= 2 && n <= 4) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: cs_CZ\n"
+"Project-Id-Version: Themes - Zita\n"
+
+#. Theme Name of the theme
+#: lib/theme-option/class-zita-admin-settings.php:163
+#: lib/theme-option/view-general.php:23
+msgid "Zita"
+msgstr "Zita"
+
+#. Description of the theme
+msgid "Zita is a super fast and highly customizable theme. Best Suitable for creating any type of website such a corporate, store, agency, blog, portfolio, restaurant, wedding, construction, hospital, school, interior, car workshop, life coach, wine shop, barber shop, furniture shop, yoga, resume, charity, digital marketing etc. Zita includes 8 unique header layout and 8 footer widget layout which makes it extremely powerful. Zita works with any of your favourite page builder like Elementor, Visual Composer, Beaver Builder, SiteOrigin, Divi, Brizy etc. Some more amazing feature are Woocommerce ready, RTL Ready, Full Responsive, Edit settings in tablet & mobile, Top header, Bottom header, Top footer, Bottom Footer, Transparent Header. Looking for perfect base theme? Looking for perfect multipurpose theme? No need to Look further! Just go with Zita demos:https://wpzita.com/. Zita is built with best SEO practice and best friend of Woocommerce and Elementor."
+msgstr "Zita je superrychlá a vysoce flexibilní šablona vhodná pro vytváření jakéhokoli typu webových stránek – třeba korporátních, obchodních či agenturních... Stejně tak s ní vyniknou blogy, online CV, portfolia, svatební stránky, weby koučů, školitelů jógy, kadeřníků, marketérů, restaurací, obchodů s vínem či nábytkem, stavebních firem, autodílen, nemocnic, škol, charit ad. Zita má k dispozici 8 unikátních hlaviček a patiček pro Váš výkonný web. Pracuje s oblíbenými nástroji pro budování webu, jako je Elementor, Visual Composer, Beaver Builder, SiteOrigin, Divi, Brizy ad. Dalšími úžasnými vlastnostmi Zity jsou: #WooCommerce Ready #RTL Ready #Plná responzivita #Úprava nastavení v mobilech & tabletech #Top header (horní hlavička) #Bottom header (dolní hlavička) #Top footer (horní patička) #Bottom footer (dolní patička) #Transparent header (průhledná hlavička). Sháníte perfektní šablonu? Potřebujete šablonu, která má všestranné využití? Už nemusíte dále hledat – používejte Zitu! Koukněte se na web: https://wpzita.com/. Zita je vytvořená s respektem k SEO pravidlům a skvěle pracuje s WooCommerce a Elementorem."
+
+#: lib/theme-option/class-zita-admin-settings.php:636
+msgid "White Label"
+msgstr "White Label"
+
+#: inc/woocommerce/customizer/section/layout/cart.php:39
+msgid "Show as"
+msgstr "Ukázat jako"
+
+#: searchform.php:12
+msgctxt "submit button"
+msgid "Search"
+msgstr "Hledat"
+
+#: searchform.php:11
+msgid "search.."
+msgstr "hledání.."
+
+#: inc/woocommerce/register-woocommerce-panels-and-sections.php:42
+msgid "Single Product"
+msgstr "Jeden produkt"
+
+#: inc/woocommerce/register-woocommerce-panels-and-sections.php:36
+msgid "Shop Page"
+msgstr "Stránka obchodu"
+
+#: inc/woocommerce/register-woocommerce-panels-and-sections.php:29
+msgid "Cart"
+msgstr "Košík"
+
+#: inc/woocommerce/register-woocommerce-panels-and-sections.php:22
+msgid "On Sale Badge"
+msgstr "Symbol Na prodej"
+
+#: inc/woocommerce/register-woocommerce-panels-and-sections.php:16
+msgid "General"
+msgstr "Obecné"
+
+#: inc/woocommerce/customizer/section/layout/shop-page.php:114
+msgid "Product Box shadow on Hover"
+msgstr "Stín Boxu s produktem při přejetí"
+
+#: inc/woocommerce/customizer/section/layout/shop-page.php:90
+msgid "Product Box shadow"
+msgstr "Stín Boxu s produktem"
+
+#: inc/woocommerce/customizer/section/layout/shop-page.php:30
+msgid "Swap"
+msgstr "Výměna"
+
+#: inc/woocommerce/customizer/section/layout/shop-page.php:29
+msgid "Zoom"
+msgstr "Zoom"
+
+#: inc/woocommerce/customizer/section/layout/shop-page.php:24
+msgid "Product Image Hover Style"
+msgstr "Styl Obrázku produktu při přejetí"
+
+#: inc/woocommerce/customizer/section/layout/cart.php:61
+msgid "Choose Dropdown Color Scheme"
+msgstr "Vyberte barevné schéma Dropdownu"
+
+#: inc/woocommerce/customizer/section/layout/cart.php:44
+msgid "Icon & Total"
+msgstr "Ikona & Celkem"
+
+#: inc/woocommerce/customizer/section/layout/cart.php:43
+msgid "Icon"
+msgstr "Ikona"
+
+#: inc/woocommerce/customizer/section/layout/cart.php:26
+msgid "Disable in all device"
+msgstr "Zakázat ve všech zařízeních"
+
+#: inc/woocommerce/customizer/section/layout/cart.php:25
+msgid "Disable in mobile"
+msgstr "Zakázat na mobilu"
+
+#: inc/woocommerce/customizer/section/layout/cart.php:24
+msgid "Display on all devices"
+msgstr "Zobrazit ve všech zařízeních"
+
+#: inc/woocommerce/customizer/section/layout/cart.php:20
+msgid "Visibility"
+msgstr "Viditelnost"
+
+#: inc/woocommerce/customizer/section/layout/single-product.php:234
+msgid "Display Related product"
+msgstr "Zobrazit příbuzný produkt"
+
+#: inc/woocommerce/customizer/section/layout/single-product.php:226
+msgid "Related Product"
+msgstr "Příbuzní produkt"
+
+#: inc/woocommerce/customizer/section/layout/single-product.php:203
+#: inc/woocommerce/customizer/section/layout/single-product.php:276
+msgid "Number Of Product To Show"
+msgstr "Počet produktů k zobrazení"
+
+#: inc/woocommerce/customizer/section/layout/single-product.php:99
+#: inc/woocommerce/customizer/section/layout/shop-page.php:50
+msgid "Ratings"
+msgstr "Hodnocení"
+
+#: inc/woocommerce/customizer/section/layout/single-product.php:98
+#: inc/woocommerce/customizer/section/layout/shop-page.php:49
+msgid "Price"
+msgstr "Cena"
+
+#: inc/woocommerce/customizer/section/layout/single-product.php:95
+#: inc/woocommerce/customizer/section/layout/shop-page.php:46
+msgid "Product Structure"
+msgstr "Struktura produktu"
+
+#: inc/woocommerce/customizer/section/layout/single-product.php:71
+#: inc/woocommerce/customizer/section/layout/shop-page.php:67
+msgid "Product Content Alignment"
+msgstr "Zarovnání obsahu produktu"
+
+#: inc/woocommerce/customizer/section/layout/single-product.php:102
+msgid "Meta"
+msgstr "Meta"
+
+#: inc/woocommerce/customizer/section/layout/single-product.php:101
+#: inc/woocommerce/customizer/section/layout/shop-page.php:53
+msgid "Short Description"
+msgstr "Krátký popis"
+
+#: inc/woocommerce/customizer/section/layout/single-product.php:100
+#: inc/woocommerce/customizer/section/layout/shop-page.php:51
+msgid "Add To Cart"
+msgstr "Přidat do košíku"
+
+#: inc/woocommerce/customizer/section/layout/single-product.php:137
+msgid "Product Tab Layout"
+msgstr "Rozložení karty produktu"
+
+#: inc/woocommerce/customizer/section/layout/single-product.php:141
+msgid "Horizontal"
+msgstr "Horizontální"
+
+#: inc/woocommerce/customizer/section/layout/single-product.php:142
+msgid "Vertical"
+msgstr "Vertikální"
+
+#: inc/woocommerce/customizer/section/layout/single-product.php:179
+#: inc/woocommerce/customizer/section/layout/single-product.php:252
+msgid "Number Of Column To Show"
+msgstr "Počet sloupců k zobrazení"
+
+#: inc/woocommerce/customizer/section/layout/single-product.php:119
+msgid "Product Description Tab"
+msgstr "Karta s popisem produktu"
+
+#: inc/woocommerce/customizer/section/layout/single-product.php:126
+msgid "Display Product Description Tab"
+msgstr "Zobrazit kartu s popisem produktu"
+
+#: inc/blog-function.php:68
+msgid " read "
+msgstr "číst"
+
+#: inc/blog-function.php:188
+msgid "Read More &raquo;"
+msgstr "Číst více &raquo;"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/blog-function.php:266 inc/blog-function.php:292
+msgid ", "
+msgstr ", "
+
+#: inc/blog-function.php:502
+msgid "More Post"
+msgstr "Více příspěvků"
+
+#: inc/woocommerce/woocommerce-config.php:102
+msgid "WooCommerce Sidebar"
+msgstr "Postranní panel WooCommerce"
+
+#: inc/woocommerce/woocommerce-config.php:111
+msgid "Product Sidebar"
+msgstr "Postranní panel produktu"
+
+#: inc/woocommerce/woocommerce-common-function.php:167
+msgid "Search for:"
+msgstr "Vyhledat:"
+
+#: inc/woocommerce/woocommerce-common-function.php:168
+msgid "Product search"
+msgstr "Hledání produktu"
+
+#: inc/woocommerce/customizer/section/layout/woo-layout.php:43
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: inc/woocommerce/woocommerce-common-function.php:10
+msgid "Sale"
+msgstr "Prodej"
+
+#: inc/woocommerce/woocommerce-config.php:104
+msgid "Add widgets here to appear in your WooCommerce Sidebar."
+msgstr "Přidejte sem Widgety, aby se objevily v postranním panelu WooCommerce."
+
+#: inc/woocommerce/woocommerce-config.php:113
+msgid "This sidebar will be used on Single Product page."
+msgstr "Tento postranní panel bude využit na stránce produktu."
+
+#: inc/default-string.php:65
+msgid "Previous Page"
+msgstr "Předchozí stránka"
+
+#: inc/default-string.php:64
+msgid "Next Page"
+msgstr "Další stránka"
+
+#: inc/default-string.php:63
+msgid "% Comments"
+msgstr "% komentářů"
+
+#: inc/default-string.php:55
+msgid "Newer Comments"
+msgstr "Novější komentáře"
+
+#: comments.php:63 inc/default-string.php:53
+msgid "Comments are closed."
+msgstr "Komentování je uzavřeno."
+
+#: inc/default-string.php:52
+msgid "Website"
+msgstr "Web"
+
+#: inc/default-string.php:50
+msgid "Name*"
+msgstr "Jméno*"
+
+#: inc/default-string.php:49
+msgid "Type here.."
+msgstr "Pište sem.."
+
+#: inc/default-string.php:48
+msgid "Post Comment &raquo;"
+msgstr "Komentář &raquo;"
+
+#: inc/default-string.php:47
+msgid "Cancel Reply"
+msgstr "Zrušit odpověď"
+
+#: inc/default-string.php:46 inc/default-string.php:61
+msgid "Leave a Comment"
+msgstr "Zanechte komentář"
+
+#: inc/default-string.php:45
+msgid "Your comment is awaiting moderation."
+msgstr "Váš komentář nyní čeká na schválení."
+
+#: inc/default-string.php:44
+msgid "Edit"
+msgstr "Editace"
+
+#: inc/default-string.php:43
+msgid "Reply"
+msgstr "Odpověď"
+
+#: inc/default-string.php:40
+msgid "Search &hellip;"
+msgstr "Hledat &hellip;"
+
+#: inc/default-string.php:38 inc/default-string.php:39
+msgid "Start Typing&hellip;"
+msgstr "Začít psát&hellip;"
+
+#: lib/theme-option/class-zita-admin-settings.php:588
+msgid "Scroll to top"
+msgstr "Nahoru"
+
+#: lib/theme-option/class-zita-admin-settings.php:583
+msgid "Shop"
+msgstr "Obchod"
+
+#: lib/theme-option/class-zita-admin-settings.php:563
+msgid "Sidebar Options"
+msgstr "Možnosti postranního panelu"
+
+#: lib/theme-option/class-zita-admin-settings.php:558
+msgid "Footer Settings"
+msgstr "Nastavení patičky"
+
+#: lib/theme-option/class-zita-admin-settings.php:553
+msgid "Blog Layouts"
+msgstr "Rozložení Blogu"
+
+#: lib/theme-option/class-zita-admin-settings.php:548
+msgid "Header Options"
+msgstr "Možnosti hlavičky"
+
+#: lib/theme-option/class-zita-admin-settings.php:543
+msgid "Layout Options"
+msgstr "Možnosti rozložení"
+
+#: lib/theme-option/class-zita-admin-settings.php:533
+msgid "Set Colors"
+msgstr "Nastavit barvy"
+
+#: lib/theme-option/class-zita-admin-settings.php:528
+msgid "Upload Logo"
+msgstr "Nahrát logo"
+
+#: lib/theme-option/class-zita-admin-settings.php:402
+msgid "Learn More"
+msgstr "Dozvědět se více"
+
+#: lib/theme-option/class-zita-admin-settings.php:364
+msgid "Install Importer Plugin"
+msgstr "Instalovat Importovací nástroj"
+
+#: lib/theme-option/class-zita-admin-settings.php:355
+msgid "Activate Importer Plugin"
+msgstr "Aktivovat Importovací nástroj"
+
+#: lib/theme-option/class-zita-admin-settings.php:346
+msgid "Just one click and import your favorite site. Enjoy creating your project as you want."
+msgstr "Pouhým kliknutím nainstalujete Vaší oblíbenou stránku. Užijte si vytváření Vašeho projektu."
+
+#. translators: %1$s: Starter site link.
+#: lib/theme-option/class-zita-admin-settings.php:337
+msgid "Get amazing free websites with %1$s. As %1$s offers you ready to use  %2$s "
+msgstr "Získejte zadarmo úžasné webové stránky s %1$s. Stejně tak Vám %1$s nabízí  %2$s připravené k použití"
+
+#: lib/theme-option/class-zita-admin-settings.php:334
+msgid "Site Library"
+msgstr "Knihovna stránky"
+
+#: lib/theme-option/class-zita-admin-settings.php:327
+msgid "Import Starter Site"
+msgstr "Importovat Startovací stránku"
+
+#: lib/theme-option/class-zita-admin-settings.php:235
+#: lib/theme-option/class-zita-admin-settings.php:371
+msgid "See Library"
+msgstr "Vidět knihovnu"
+
+#: lib/theme-option/class-zita-admin-settings.php:233
+msgid "Activating Importer Plugin "
+msgstr "Aktivace Importovacího nástroje"
+
+#: lib/theme-option/class-zita-admin-settings.php:197
+msgid "Welcome"
+msgstr "Vítejte"
+
+#: lib/theme-option/class-zita-admin-settings.php:162
+msgid "Zita Options"
+msgstr "Možnosti Zity"
+
+#. translators: %s theme name
+#: lib/theme-option/class-zita-admin-settings.php:59
+#: lib/theme-option/class-zita-admin-settings.php:62
+msgid "Get started with %s"
+msgstr "Začněte s %s"
+
+#. translators: %1$s: theme name, %2$s link
+#: lib/theme-option/class-zita-admin-settings.php:45
+#: lib/theme-option/class-zita-admin-settings.php:49
+msgid "Visit our %1$s options page to take full advantage of theme."
+msgstr "Navštivte naší %1$s stránku s možnostmi k využití všech dostupných výhod."
+
+#. translators: %1$s: theme name, %2$s theme version
+#: lib/theme-option/class-zita-admin-settings.php:35
+#: lib/theme-option/class-zita-admin-settings.php:38
+msgid "Thanks for choosing %1$s - Version %2$s"
+msgstr "Děkujeme, že jste si vybrali %1$s - verze %2$s"
+
+#: lib/page-meta-box/zita-page-meta-box.php:130
+msgid "Disable"
+msgstr "Zakázat"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: lib/breadcrumbs/breadcrumbs.php:260
+msgid "Week %s"
+msgstr "Týden %s"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: lib/breadcrumbs/breadcrumbs.php:258
+msgid "Minute %s"
+msgstr "Minuta %s"
+
+#. Translators: %s is the page number.
+#: lib/breadcrumbs/breadcrumbs.php:256
+msgid "Page %s"
+msgstr "Stránka %s"
+
+#. Translators: %s is the search query. The HTML entities are opening and
+#. closing curly quotes.
+#: lib/breadcrumbs/breadcrumbs.php:254
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "Výsledky vyhledávání: &#8220;%s&#8221;"
+
+#: lib/breadcrumbs/breadcrumbs.php:252
+msgid "Archives"
+msgstr "Archivy"
+
+#: lib/breadcrumbs/breadcrumbs.php:251
+msgid "404 Not Found"
+msgstr "404 nenalezeno"
+
+#: lib/breadcrumbs/breadcrumbs.php:250
+msgid "Home"
+msgstr "Domů"
+
+#: lib/breadcrumbs/breadcrumbs.php:249
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "Breadcrumbs"
+
+#: lib/breadcrumbs/breadcrumbs.php:248
+msgid "Browse:"
+msgstr "Procházet:"
+
+#: customizer/section/typography/base-typography.php:254
+msgid "H1"
+msgstr "H1"
+
+#: customizer/section/typography/base-typography.php:161
+#: customizer/section/typography/base-typography.php:366
+#: customizer/section/typography/base-typography.php:505
+#: customizer/section/typography/base-typography.php:643
+#: customizer/section/typography/base-typography.php:781
+#: customizer/section/typography/base-typography.php:919
+#: customizer/section/typography/base-typography.php:1056
+msgid "Letter-Spacing"
+msgstr "Řádkování"
+
+#: customizer/section/typography/base-typography.php:137
+#: customizer/section/typography/base-typography.php:341
+#: customizer/section/typography/base-typography.php:480
+#: customizer/section/typography/base-typography.php:618
+#: customizer/section/typography/base-typography.php:756
+#: customizer/section/typography/base-typography.php:894
+#: customizer/section/typography/base-typography.php:1031
+msgid "Line-Height"
+msgstr "Výška řádku"
+
+#: customizer/section/typography/base-typography.php:113
+#: customizer/section/typography/base-typography.php:318
+#: customizer/section/typography/base-typography.php:457
+#: customizer/section/typography/base-typography.php:595
+#: customizer/section/typography/base-typography.php:733
+#: customizer/section/typography/base-typography.php:871
+#: customizer/section/typography/base-typography.php:1008
+msgid "Font-Size"
+msgstr "Velikost písma"
+
+#: customizer/section/typography/base-typography.php:96
+#: customizer/section/typography/base-typography.php:238
+#: customizer/section/typography/base-typography.php:304
+#: customizer/section/typography/base-typography.php:443
+#: customizer/section/typography/base-typography.php:581
+#: customizer/section/typography/base-typography.php:719
+#: customizer/section/typography/base-typography.php:857
+#: customizer/section/typography/base-typography.php:994
+msgid "Lowercase"
+msgstr "Malá písmena"
+
+#: customizer/section/typography/base-typography.php:95
+#: customizer/section/typography/base-typography.php:237
+#: customizer/section/typography/base-typography.php:303
+#: customizer/section/typography/base-typography.php:442
+#: customizer/section/typography/base-typography.php:580
+#: customizer/section/typography/base-typography.php:718
+#: customizer/section/typography/base-typography.php:856
+#: customizer/section/typography/base-typography.php:993
+msgid "Uppercase"
+msgstr "Velká písmena"
+
+#: customizer/section/typography/base-typography.php:94
+#: customizer/section/typography/base-typography.php:236
+#: customizer/section/typography/base-typography.php:302
+#: customizer/section/typography/base-typography.php:441
+#: customizer/section/typography/base-typography.php:579
+#: customizer/section/typography/base-typography.php:717
+#: customizer/section/typography/base-typography.php:855
+#: customizer/section/typography/base-typography.php:992
+msgid "Capitalize"
+msgstr "Kapitálky"
+
+#: customizer/section/typography/base-typography.php:88
+#: customizer/section/typography/base-typography.php:230
+#: customizer/section/typography/base-typography.php:296
+#: customizer/section/typography/base-typography.php:435
+#: customizer/section/typography/base-typography.php:573
+#: customizer/section/typography/base-typography.php:711
+#: customizer/section/typography/base-typography.php:849
+#: customizer/section/typography/base-typography.php:986
+msgid "Text Transform"
+msgstr "Transformace textu"
+
+#: customizer/section/typography/base-typography.php:47
+#: customizer/section/typography/base-typography.php:188
+msgid "Font family"
+msgstr "Rodina písma"
+
+#: customizer/section/layout/button.php:84
+msgid "Button Border Radius"
+msgstr "Zaoblení okraje tlačítka"
+
+#: customizer/section/layout/button.php:64
+msgid "Button Background Hover Color"
+msgstr "Barva pozadí tlačítka při najetí"
+
+#: customizer/section/layout/button.php:49
+msgid "Button Text Hover Color"
+msgstr "Barva textu tlačítka při najetí"
+
+#: customizer/section/layout/button.php:34
+msgid "Button Background Color"
+msgstr "Barva pozadí tlačítka"
+
+#: customizer/section/layout/button.php:18
+msgid "Button Text Color"
+msgstr "Barva textu tlačítka"
+
+#: customizer/section/layout/loader.php:45
+msgid "Pre Loader Image"
+msgstr "Obrázek PreLoaderu (načítací)"
+
+#: customizer/section/layout/loader.php:15
+msgid "Enable Loader"
+msgstr "Povolit načítač"
+
+#: customizer/section/layout/search.php:266
+msgid "Placeholder Text Color"
+msgstr "Barva zástupného textu"
+
+#: customizer/section/layout/search.php:253
+msgid "Search Box Background Color"
+msgstr "Barva pozadí vyhledávacího boxu"
+
+#: customizer/section/layout/search.php:240
+msgid "Placeholder Text"
+msgstr "Zástupný text"
+
+#: customizer/section/layout/search.php:234
+msgid "Search.."
+msgstr "Hledat.."
+
+#: customizer/section/layout/search.php:220
+msgid "Icon Size"
+msgstr "Velikost ikony"
+
+#: customizer/section/layout/search.php:199
+msgid "Placeholder Font Size"
+msgstr "Velikost zástupného textu"
+
+#: customizer/section/layout/search.php:129
+msgid "Width"
+msgstr "Šířka"
+
+#: customizer/section/layout/search.php:81
+msgid "Icon Border Color"
+msgstr "Barva okraje ikony"
+
+#: customizer/section/layout/search.php:22
+msgid "Icon Font Size"
+msgstr "Velikost textu ikony"
+
+#: customizer/section/layout/blog-single.php:178
+msgid "Tag"
+msgstr "Štítek"
+
+#: customizer/section/layout/blog-single.php:173
+msgid "Related Post "
+msgstr "Příbuzný příspěvek"
+
+#: customizer/section/layout/blog-single.php:158
+msgid "Display Related Post"
+msgstr "Zobrazit příbuzný příspěvek"
+
+#: customizer/section/layout/blog-single.php:146
+msgid "Display Author Info"
+msgstr "Zobrazit info o autorovi"
+
+#: customizer/section/layout/sidebar-setting.php:25
+#: customizer/section/layout/sidebar-setting.php:46
+#: customizer/section/layout/sidebar-setting.php:67
+#: customizer/section/layout/sidebar-setting.php:88
+#: inc/woocommerce/customizer/section/layout/woo-layout.php:49
+#: lib/page-meta-box/zita-page-meta-box.php:42
+msgid "Left Sidebar"
+msgstr "Levý postranní panel"
+
+#: customizer/section/layout/sidebar-setting.php:24
+#: customizer/section/layout/sidebar-setting.php:45
+#: customizer/section/layout/sidebar-setting.php:66
+#: customizer/section/layout/sidebar-setting.php:87
+#: inc/woocommerce/customizer/section/layout/woo-layout.php:48
+#: lib/page-meta-box/zita-page-meta-box.php:44
+msgid "No Sidebar"
+msgstr "Žádný postranní panel"
+
+#: customizer/section/layout/sidebar-setting.php:20
+msgid "Default Layout"
+msgstr "Výchozí rozložení"
+
+#: customizer/section/layout/sticky-header.php:30
+msgid "Disable transparent header for Special pages"
+msgstr "Zakázat průhledný header pro speciální stránky"
+
+#: customizer/section/layout/sticky-header.php:17
+msgid "Enable Header Transparent\n"
+msgstr "Povolit průhlednost headeru\n"
+
+#: customizer/section/layout/blog-single.php:92
+#: customizer/section/layout/blog-archive.php:292
+msgid "Publish Date"
+msgstr "Datum publikace"
+
+#: customizer/section/layout/blog-single.php:91
+#: customizer/section/layout/blog-archive.php:291
+msgid "Author"
+msgstr "Autor"
+
+#: customizer/section/layout/blog-single.php:90
+#: customizer/section/layout/blog-single.php:177
+#: customizer/section/layout/blog-archive.php:290
+#: inc/woocommerce/customizer/section/layout/shop-page.php:52
+msgid "Category"
+msgstr "Rubrika"
+
+#: customizer/section/layout/blog-single.php:89
+#: customizer/section/layout/blog-archive.php:289
+msgid "Comments"
+msgstr "Komentáře"
+
+#: customizer/section/layout/blog-archive.php:231
+msgid "Load More"
+msgstr "Načíst více"
+
+#: customizer/section/layout/blog-archive.php:230
+msgid "Numbered"
+msgstr "Číslovaný"
+
+#: customizer/section/layout/blog-archive.php:226
+msgid "Post Pagination"
+msgstr "Stránkování"
+
+#: customizer/section/layout/blog-archive.php:198
+msgid "Display Read More as Button"
+msgstr "Ukázat \"Číst více\" jako tlačítko"
+
+#: customizer/section/layout/blog-archive.php:186
+msgid "Read More Text"
+msgstr "Text \"Číst více\""
+
+#: customizer/section/layout/blog-archive.php:287
+msgid "Blog Meta"
+msgstr "Blog Meta"
+
+#: customizer/section/layout/blog-single.php:68
+#: customizer/section/layout/blog-archive.php:268
+msgid "Post Title & Meta"
+msgstr "Post Title & Meta"
+
+#: customizer/section/layout/blog-archive.php:267
+msgid "Featured Image"
+msgstr "Doporučený obrázek"
+
+#: customizer/section/layout/blog-archive.php:265
+msgid "Blog Structure"
+msgstr "Struktura blogu"
+
+#: customizer/section/layout/blog-archive.php:246
+msgid "Load More Text"
+msgstr "Text \"Načíst více\""
+
+#: customizer/section/layout/blog-archive.php:232
+msgid "Infinite Scroll"
+msgstr "Nekonečné Scrollování"
+
+#: customizer/section/layout/blog-archive.php:51
+msgid "Three Column"
+msgstr "Tři sloupce"
+
+#: customizer/section/layout/blog-archive.php:50
+msgid "Two Column"
+msgstr "Dva sloupce"
+
+#: customizer/section/layout/blog-archive.php:49
+msgid "One Column"
+msgstr "Jeden sloupec"
+
+#: customizer/section/layout/blog-archive.php:22
+#: customizer/section/layout/sidebar-setting.php:61
+msgid "Blog Layout"
+msgstr "Blog (rozložení)"
+
+#: customizer/section/layout/blog-archive.php:45
+msgid "Grid Layout"
+msgstr "Mřížka (rozložení)"
+
+#: customizer/section/layout/scroll-to-top.php:121
+msgid "Icon Background Hover Color"
+msgstr "Barva pozadí ikony při najetí"
+
+#: customizer/section/layout/scroll-to-top.php:106
+#: customizer/section/layout/search.php:95
+msgid "Icon Hover Color"
+msgstr "Barva ikony při najetí"
+
+#: customizer/section/layout/scroll-to-top.php:91
+#: customizer/section/layout/search.php:109
+msgid "Icon Background Color"
+msgstr "Barva pozadí ikony"
+
+#: customizer/section/layout/scroll-to-top.php:52
+#: customizer/section/layout/search.php:46
+msgid "Icon Radius"
+msgstr "Zaoblení ikony"
+
+#: customizer/section/layout/scroll-to-top.php:36
+#: customizer/section/layout/main-header.php:224
+#: inc/woocommerce/customizer/section/layout/single-product.php:77
+#: inc/woocommerce/customizer/section/layout/shop-page.php:73
+msgid "Right"
+msgstr "Pravý"
+
+#: customizer/section/layout/scroll-to-top.php:35
+#: customizer/section/layout/main-header.php:222
+#: inc/woocommerce/customizer/section/layout/single-product.php:75
+#: inc/woocommerce/customizer/section/layout/shop-page.php:71
+msgid "Left"
+msgstr "Levý"
+
+#: customizer/section/layout/scroll-to-top.php:31
+msgid "Position"
+msgstr "Pozice"
+
+#: customizer/section/layout/scroll-to-top.php:17
+msgid "Disable Scroll To Top"
+msgstr "Zakázat Scrollování nahoru"
+
+#: customizer/section/layout/widget-footer.php:91
+msgid "Full Width"
+msgstr "Plná šířka"
+
+#: customizer/section/layout/widget-footer.php:90
+#: inc/woocommerce/customizer/section/layout/single-product.php:22
+msgid "Content Width"
+msgstr "Šířka obsahu"
+
+#: customizer/section/layout/bottom-footer.php:53
+#: customizer/section/layout/above-footer.php:53
+#: customizer/section/layout/bottom-header.php:50
+#: customizer/section/layout/above-header.php:49
+msgid "Column 1"
+msgstr "Sloupec 1"
+
+#: customizer/section/layout/social-icon.php:125
+msgid "Show Original Color"
+msgstr "Ukázat originální barvu"
+
+#: lib/theme-option/class-zita-admin-settings.php:643
+msgid "Setting"
+msgstr "Nastavení"
+
+#: customizer/section/layout/social-icon.php:114
+msgid "Dribble URL"
+msgstr "URL Dribblu"
+
+#: customizer/section/layout/social-icon.php:102
+msgid "Stumbleupon URL"
+msgstr "URL Stumbleuponu"
+
+#: customizer/section/layout/social-icon.php:90
+msgid "Youtube URL"
+msgstr "URL Youtubu"
+
+#: customizer/section/layout/social-icon.php:78
+msgid "Tumblr URL"
+msgstr "URL TumbIru"
+
+#: customizer/section/layout/social-icon.php:66
+msgid "Instagram URL"
+msgstr "URL Instagramu"
+
+#: customizer/section/layout/social-icon.php:54
+msgid "Twitter URL"
+msgstr "URL Twitteru"
+
+#: customizer/section/layout/social-icon.php:41
+msgid "Pinterest URL"
+msgstr "URL Pinterestu"
+
+#: customizer/section/layout/social-icon.php:29
+msgid "LinkedIn URL"
+msgstr "URL Linkedinu"
+
+#: customizer/section/layout/social-icon.php:16
+msgid "Facebook URL"
+msgstr "URL Facebooku"
+
+#: customizer/section/color/hamburger_color.php:63
+#: customizer/section/layout/search.php:175
+msgid "Border Radius"
+msgstr "Zaoblení okraje"
+
+#: customizer/section/color/hamburger_color.php:46
+#: customizer/section/layout/scroll-to-top.php:75
+#: customizer/section/layout/search.php:67
+#: customizer/section/layout/search.php:293
+msgid "Icon Color"
+msgstr "Barva ikony"
+
+#: customizer/register-panels-and-sections.php:240
+#: lib/theme-option/class-zita-admin-settings.php:568
+msgid "Pre Loader"
+msgstr "PreLoader (načítač)"
+
+#: customizer/register-panels-and-sections.php:233
+#: lib/theme-option/class-zita-admin-settings.php:578
+msgid "Site Button"
+msgstr "Tlačítko stránky"
+
+#: customizer/register-panels-and-sections.php:227
+#: lib/theme-option/class-zita-admin-settings.php:538
+msgid "Typography"
+msgstr "Typografie"
+
+#: customizer/register-panels-and-sections.php:218
+msgid "Hamburger Colors"
+msgstr "Barva Hamburgeru (menu)"
+
+#: customizer/register-panels-and-sections.php:212
+msgid "Global Colors"
+msgstr "Globální barvy"
+
+#: customizer/register-panels-and-sections.php:253
+msgid "Base Typography"
+msgstr "Základní typografie"
+
+#: customizer/register-panels-and-sections.php:208
+msgid "Color & Background"
+msgstr "Barva & Pozadí"
+
+#: customizer/register-panels-and-sections.php:195
+msgid "Scroll To Top"
+msgstr "Scrollovat nahoru"
+
+#: customizer/register-panels-and-sections.php:143
+msgid "Search Box"
+msgstr "Vyhledávací box"
+
+#: customizer/register-panels-and-sections.php:55
+msgid "Footer"
+msgstr "Footer"
+
+#: customizer/register-panels-and-sections.php:49
+msgid "Blog"
+msgstr "Blog"
+
+#: customizer/register-panels-and-sections.php:43
+#: lib/page-meta-box/zita-page-meta-box.php:36
+msgid "Sidebar"
+msgstr "Postranní panel"
+
+#: customizer/register-panels-and-sections.php:37
+msgid "Header"
+msgstr "Header"
+
+#: customizer/register-panels-and-sections.php:32
+msgid "Container"
+msgstr "Kontejner"
+
+#: customizer/register-panels-and-sections.php:28
+#: customizer/section/layout/bottom-footer.php:23
+#: customizer/section/layout/above-footer.php:23
+#: customizer/section/layout/bottom-header.php:22
+#: customizer/section/layout/widget-footer.php:22
+#: customizer/section/layout/above-header.php:21
+msgid "Layout"
+msgstr "Rozložení"
+
+#: inc/default-string.php:35 template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Nenalezeno"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:35
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Editovat <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/default-string.php:59 inc/default-string.php:68
+#: template-parts/content-page.php:23 template-parts/content-post.php:33
+msgid "Pages:"
+msgstr "Stránky:"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-post.php:22
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Pokračovat ve čtení<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: template-parts/author-bio.php:18
+msgid "Written by"
+msgstr "Autor:"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Jste připraveni publikovat první příspěvek? <a href=\"%1$s\">Začněte zde</a>."
+
+#: inc/default-string.php:36 template-parts/content-none.php:38
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Omlouváme se, ale nic neodpovídá Vámi hledanému. Prosím, zkuste to znova s jinými klíčovými slovy."
+
+#: inc/default-string.php:75 template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Vypadá to, že nemůžeme najít to, co vyhledáváte. Zkuste vyhledávací box."
+
+#: functions.php:97
+msgid "Primary Sidebar"
+msgstr "Primární postranní panel"
+
+#: 404.php:19
+msgid "404"
+msgstr "404"
+
+#: customizer/register-panels-and-sections.php:137
+msgid "Search Icon"
+msgstr "Ikona vyhledávání"
+
+#: customizer/register-panels-and-sections.php:124
+#: lib/theme-option/class-zita-admin-settings.php:573
+msgid "Social Icon"
+msgstr "Sociální ikona"
+
+#: customizer/register-panels-and-sections.php:114
+msgid "Single Post"
+msgstr "Příspěvek"
+
+#: customizer/register-panels-and-sections.php:104
+msgid "Blog/Archive"
+msgstr "Blog/Archiv"
+
+#: customizer/register-panels-and-sections.php:132
+#: customizer/section/layout/bottom-footer.php:60
+#: customizer/section/layout/bottom-footer.php:147
+#: customizer/section/layout/bottom-footer.php:231
+#: customizer/section/layout/above-footer.php:60
+#: customizer/section/layout/above-footer.php:147
+#: customizer/section/layout/above-footer.php:231
+#: customizer/section/layout/bottom-header.php:57
+#: customizer/section/layout/bottom-header.php:144
+#: customizer/section/layout/bottom-header.php:231
+#: customizer/section/layout/main-header.php:80
+#: customizer/section/layout/above-header.php:56
+#: customizer/section/layout/above-header.php:142
+#: customizer/section/layout/above-header.php:228
+#: inc/woocommerce/woocommerce-common-function.php:169
+#: lib/theme-option/class-zita-admin-settings.php:593
+msgid "Search"
+msgstr "Vyhledávání"
+
+#: customizer/register-panels-and-sections.php:94
+#: lib/page-meta-box/zita-page-meta-box.php:123
+msgid "Transparent Header"
+msgstr "Průhlednost Headeru"
+
+#: customizer/register-panels-and-sections.php:86
+msgid "Sticky Header"
+msgstr "Sticky Header"
+
+#: customizer/register-panels-and-sections.php:70
+msgid "Main Header"
+msgstr "Hlavní Header"
+
+#: customizer/register-panels-and-sections.php:78
+msgid "Below Header"
+msgstr "Dolní Header"
+
+#: customizer/section/color/hamburger_color.php:32
+#: customizer/section/layout/bottom-footer.php:359
+#: customizer/section/layout/above-footer.php:359
+#: customizer/section/layout/bottom-header.php:363
+#: customizer/section/layout/above-header.php:359
+#: customizer/section/layout/search.php:279
+msgid "Border Color"
+msgstr "Barva okraje"
+
+#: customizer/section/color/hamburger_color.php:18
+#: customizer/section/layout/loader.php:30
+msgid "Background Color"
+msgstr "Barva pozadí"
+
+#: customizer/section/color/gloabal_color_background.php:81
+msgid "Title Color"
+msgstr "Barva titulku"
+
+#: customizer/section/color/gloabal_color_background.php:66
+msgid "Text Color"
+msgstr "Barva textu"
+
+#: customizer/section/color/gloabal_color_background.php:51
+msgid "Link Hover Color"
+msgstr "Barva linku při přejetí"
+
+#: customizer/section/color/gloabal_color_background.php:36
+msgid "Link Color"
+msgstr "Barva linku"
+
+#: customizer/section/color/gloabal_color_background.php:21
+msgid "Theme Color"
+msgstr "Barva šablony"
+
+#: customizer/section/color/gloabal_color_background.php:112
+#: customizer/section/color/hamburger_color.php:86
+#: customizer/section/typography/base-typography.php:1081
+#: customizer/section/typography/base-typography.php:1095
+#: customizer/section/layout/bottom-footer.php:401
+#: customizer/section/layout/above-footer.php:402
+#: customizer/section/layout/loader.php:60
+#: customizer/section/layout/social-icon.php:140
+#: customizer/section/layout/sticky-header.php:46
+#: customizer/section/layout/scroll-to-top.php:138
+#: customizer/section/layout/bottom-header.php:407
+#: customizer/section/layout/button.php:106
+#: customizer/section/layout/main-header.php:297
+#: customizer/section/layout/widget-footer.php:133
+#: customizer/section/layout/above-header.php:404
+#: customizer/section/layout/container.php:125
+#: customizer/section/layout/search.php:309
+#: customizer/section/layout/search.php:322
+#: customizer/section/layout/blog-single.php:192
+#: customizer/section/layout/blog-archive.php:367
+#: customizer/section/layout/sidebar-setting.php:132
+#: customizer/site-identity-customizer.php:101
+#: inc/woocommerce/customizer/section/layout/single-product.php:300
+#: inc/woocommerce/customizer/section/layout/shop-page.php:137
+msgid "To know more Go with this <a target=\"_blank\" href=\"%s\">Doc</a> !"
+msgstr "Více se dozvíte v tomto <a target=\"_blank\" href=\"%s\">dokumentu</a> !"
+
+#: customizer/site-identity-customizer.php:75
+msgid "Logo Width"
+msgstr "Šířka loga"
+
+#: customizer/site-identity-customizer.php:39
+msgid "Display Site Title"
+msgstr "Zobrazení názvu stránky"
+
+#: customizer/site-identity-customizer.php:27
+msgid "Retina Logo"
+msgstr "Retina Logo"
+
+#: customizer/register-panels-and-sections.php:273
+msgid "Content"
+msgstr "Obsah"
+
+#: customizer/register-panels-and-sections.php:266
+#: inc/woocommerce/customizer/section/layout/single-product.php:97
+#: inc/woocommerce/customizer/section/layout/shop-page.php:48
+msgid "Title"
+msgstr "Název"
+
+#: customizer/register-panels-and-sections.php:259
+msgid "Body"
+msgstr "Tělo"
+
+#: customizer/site-identity-customizer.php:54
+msgid "Display Tagline"
+msgstr "Zobrazení popisku/sloganu"
+
+#: customizer/section/layout/bottom-footer.php:61
+#: customizer/section/layout/bottom-footer.php:148
+#: customizer/section/layout/bottom-footer.php:232
+#: customizer/section/layout/above-footer.php:61
+#: customizer/section/layout/above-footer.php:148
+#: customizer/section/layout/above-footer.php:232
+#: customizer/section/layout/bottom-header.php:58
+#: customizer/section/layout/bottom-header.php:145
+#: customizer/section/layout/bottom-header.php:232
+#: customizer/section/layout/main-header.php:81
+#: customizer/section/layout/above-header.php:57
+#: customizer/section/layout/above-header.php:143
+#: customizer/section/layout/above-header.php:229
+msgid "Widget"
+msgstr "Widget"
+
+#: customizer/section/layout/bottom-footer.php:59
+#: customizer/section/layout/bottom-footer.php:146
+#: customizer/section/layout/bottom-footer.php:230
+#: customizer/section/layout/above-footer.php:59
+#: customizer/section/layout/above-footer.php:146
+#: customizer/section/layout/above-footer.php:230
+#: customizer/section/layout/bottom-header.php:56
+#: customizer/section/layout/bottom-header.php:143
+#: customizer/section/layout/bottom-header.php:230
+#: customizer/section/layout/above-header.php:55
+#: customizer/section/layout/above-header.php:141
+#: customizer/section/layout/above-header.php:227
+msgid "Menu"
+msgstr "Menu"
+
+#: customizer/section/layout/bottom-footer.php:58
+#: customizer/section/layout/bottom-footer.php:74
+#: customizer/section/layout/bottom-footer.php:145
+#: customizer/section/layout/bottom-footer.php:160
+#: customizer/section/layout/bottom-footer.php:229
+#: customizer/section/layout/bottom-footer.php:244
+#: customizer/section/layout/above-footer.php:58
+#: customizer/section/layout/above-footer.php:74
+#: customizer/section/layout/above-footer.php:145
+#: customizer/section/layout/above-footer.php:160
+#: customizer/section/layout/above-footer.php:229
+#: customizer/section/layout/above-footer.php:244
+#: customizer/section/layout/bottom-header.php:55
+#: customizer/section/layout/bottom-header.php:73
+#: customizer/section/layout/bottom-header.php:142
+#: customizer/section/layout/bottom-header.php:159
+#: customizer/section/layout/bottom-header.php:229
+#: customizer/section/layout/bottom-header.php:246
+#: customizer/section/layout/main-header.php:79
+#: customizer/section/layout/main-header.php:94
+#: customizer/section/layout/above-header.php:54
+#: customizer/section/layout/above-header.php:71
+#: customizer/section/layout/above-header.php:140
+#: customizer/section/layout/above-header.php:157
+#: customizer/section/layout/above-header.php:226
+#: customizer/section/layout/above-header.php:244
+msgid "Text"
+msgstr "Text"
+
+#: customizer/section/typography/base-typography.php:93
+#: customizer/section/typography/base-typography.php:235
+#: customizer/section/typography/base-typography.php:301
+#: customizer/section/typography/base-typography.php:440
+#: customizer/section/typography/base-typography.php:578
+#: customizer/section/typography/base-typography.php:716
+#: customizer/section/typography/base-typography.php:854
+#: customizer/section/typography/base-typography.php:991
+#: customizer/section/layout/bottom-footer.php:57
+#: customizer/section/layout/bottom-footer.php:144
+#: customizer/section/layout/bottom-footer.php:228
+#: customizer/section/layout/above-footer.php:57
+#: customizer/section/layout/above-footer.php:144
+#: customizer/section/layout/above-footer.php:228
+#: customizer/section/layout/bottom-header.php:54
+#: customizer/section/layout/bottom-header.php:141
+#: customizer/section/layout/bottom-header.php:228
+#: customizer/section/layout/main-header.php:78
+#: customizer/section/layout/above-header.php:53
+#: customizer/section/layout/above-header.php:139
+#: customizer/section/layout/above-header.php:225
+#: inc/woocommerce/customizer/section/layout/shop-page.php:28
+msgid "None"
+msgstr "Nic"
+
+#: customizer/section/layout/bottom-footer.php:62
+#: customizer/section/layout/bottom-footer.php:149
+#: customizer/section/layout/bottom-footer.php:233
+#: customizer/section/layout/above-footer.php:62
+#: customizer/section/layout/above-footer.php:149
+#: customizer/section/layout/above-footer.php:233
+#: customizer/section/layout/bottom-header.php:59
+#: customizer/section/layout/bottom-header.php:146
+#: customizer/section/layout/bottom-header.php:233
+#: customizer/section/layout/main-header.php:82
+#: customizer/section/layout/above-header.php:58
+#: customizer/section/layout/above-header.php:144
+#: customizer/section/layout/above-header.php:230
+msgid "Social Media"
+msgstr "Sociální média"
+
+#: customizer/section/layout/bottom-footer.php:124
+#: customizer/section/layout/bottom-footer.php:210
+#: customizer/section/layout/bottom-footer.php:260
+#: customizer/section/layout/above-footer.php:124
+#: customizer/section/layout/above-footer.php:210
+#: customizer/section/layout/above-footer.php:260
+#: customizer/section/layout/bottom-header.php:123
+#: customizer/section/layout/bottom-header.php:210
+#: customizer/section/layout/bottom-header.php:264
+#: customizer/section/layout/main-header.php:127
+#: customizer/section/layout/above-header.php:121
+#: customizer/section/layout/above-header.php:207
+#: customizer/section/layout/above-header.php:260
+msgid "Go To Social Media"
+msgstr "Jít do Sociálních Médií"
+
+#: customizer/section/layout/bottom-footer.php:224
+#: customizer/section/layout/above-footer.php:224
+#: customizer/section/layout/bottom-header.php:224
+#: customizer/section/layout/above-header.php:221
+msgid "Column 3"
+msgstr "Sloupec 3"
+
+#: customizer/section/layout/bottom-footer.php:140
+#: customizer/section/layout/above-footer.php:140
+#: customizer/section/layout/bottom-header.php:137
+#: customizer/section/layout/above-header.php:135
+msgid "Column 2"
+msgstr "Sloupec 2"
+
+#: customizer/section/layout/bottom-footer.php:314
+#: customizer/section/layout/above-footer.php:314
+#: customizer/section/layout/bottom-header.php:318
+#: customizer/section/layout/above-header.php:314
+#: customizer/section/layout/search.php:152
+msgid "Height"
+msgstr "Výška"
+
+#: customizer/section/layout/widget-footer.php:86
+msgid "Widget Width"
+msgstr "Šířka widgetu"
+
+#: customizer/section/layout/bottom-footer.php:376
+#: customizer/section/layout/above-footer.php:376
+#: customizer/section/layout/bottom-header.php:381
+#: customizer/section/layout/main-header.php:269
+#: customizer/section/layout/widget-footer.php:107
+#: customizer/section/layout/above-header.php:377
+msgid "Choose Color Scheme"
+msgstr "Vyberte barevné schéma"
+
+#: customizer/section/layout/bottom-footer.php:107
+#: customizer/section/layout/bottom-footer.php:193
+#: customizer/section/layout/bottom-footer.php:294
+#: customizer/section/layout/above-footer.php:107
+#: customizer/section/layout/above-footer.php:193
+#: customizer/section/layout/above-footer.php:294
+#: customizer/section/layout/bottom-header.php:106
+#: customizer/section/layout/bottom-header.php:193
+#: customizer/section/layout/bottom-header.php:298
+#: customizer/section/layout/above-header.php:104
+#: customizer/section/layout/above-header.php:173
+#: customizer/section/layout/above-header.php:277
+msgid "Go To Menu"
+msgstr "Jít do menu"
+
+#: customizer/section/layout/bottom-footer.php:90
+#: customizer/section/layout/bottom-footer.php:176
+#: customizer/section/layout/bottom-footer.php:277
+#: customizer/section/layout/above-footer.php:90
+#: customizer/section/layout/above-footer.php:176
+#: customizer/section/layout/above-footer.php:277
+#: customizer/section/layout/bottom-header.php:89
+#: customizer/section/layout/bottom-header.php:176
+#: customizer/section/layout/bottom-header.php:281
+#: customizer/section/layout/main-header.php:110
+#: customizer/section/layout/widget-footer.php:70
+#: customizer/section/layout/above-header.php:87
+#: customizer/section/layout/above-header.php:190
+#: customizer/section/layout/above-header.php:294
+msgid "Go To Widget"
+msgstr "Jít do widgetu"
+
+#: customizer/section/layout/bottom-footer.php:154
+#: customizer/section/layout/bottom-footer.php:238
+#: customizer/section/layout/above-footer.php:67
+#: customizer/section/layout/above-footer.php:154
+#: customizer/section/layout/above-footer.php:238
+#: customizer/section/layout/bottom-header.php:66
+#: customizer/section/layout/bottom-header.php:152
+#: customizer/section/layout/bottom-header.php:239
+#: customizer/section/layout/main-header.php:88
+#: customizer/section/layout/above-header.php:64
+#: customizer/section/layout/above-header.php:150
+#: customizer/section/layout/above-header.php:237 inc/header-function.php:298
+#: inc/header-function.php:354 inc/header-function.php:411
+#: inc/header-function.php:511 inc/header-function.php:567
+#: inc/header-function.php:616 inc/header-function.php:689
+#: inc/header-function.php:762 inc/footer-function.php:57
+#: inc/footer-function.php:97 inc/footer-function.php:136
+#: inc/footer-function.php:276 inc/footer-function.php:315
+msgid "Add your content here"
+msgstr "Vložte Váš obsah sem"
+
+#: customizer/section/layout/above-footer.php:338
+#: customizer/section/layout/bottom-header.php:342
+#: customizer/section/layout/above-header.php:338
+msgid "Bottom Border"
+msgstr "Dolní okraj"
+
+#: customizer/section/layout/blog-archive.php:120
+#: inc/woocommerce/customizer/section/layout/general-sale-badges.php:26
+msgid "Diamond"
+msgstr "Diamant"
+
+#: customizer/section/layout/blog-archive.php:119
+#: inc/woocommerce/customizer/section/layout/general-sale-badges.php:24
+msgid "Circle"
+msgstr "Kolečko"
+
+#: customizer/section/layout/blog-archive.php:118
+#: inc/woocommerce/customizer/section/layout/general-sale-badges.php:25
+msgid "Square"
+msgstr "Čtverec"
+
+#: customizer/section/layout/blog-archive.php:100
+msgid "Enable Date Box"
+msgstr "Povolit box s datem"
+
+#: customizer/section/layout/blog-single.php:24
+#: customizer/section/layout/blog-archive.php:329
+#: inc/woocommerce/customizer/section/layout/single-product.php:27
+msgid "Custom"
+msgstr "Vlastní"
+
+#: customizer/customizer-font-selector/class/class-zita-font-selector.php:43
+#: customizer/section/typography/base-typography.php:68
+#: customizer/section/typography/base-typography.php:92
+#: customizer/section/typography/base-typography.php:209
+#: customizer/section/typography/base-typography.php:234
+#: customizer/section/typography/base-typography.php:274
+#: customizer/section/typography/base-typography.php:300
+#: customizer/section/typography/base-typography.php:414
+#: customizer/section/typography/base-typography.php:439
+#: customizer/section/typography/base-typography.php:553
+#: customizer/section/typography/base-typography.php:577
+#: customizer/section/typography/base-typography.php:691
+#: customizer/section/typography/base-typography.php:715
+#: customizer/section/typography/base-typography.php:829
+#: customizer/section/typography/base-typography.php:853
+#: customizer/section/typography/base-typography.php:966
+#: customizer/section/typography/base-typography.php:990
+#: customizer/section/layout/container.php:67
+#: customizer/section/layout/container.php:87
+#: customizer/section/layout/container.php:107
+#: customizer/section/layout/blog-single.php:23
+#: customizer/section/layout/blog-archive.php:328
+#: customizer/section/layout/sidebar-setting.php:44
+#: customizer/section/layout/sidebar-setting.php:65
+#: customizer/section/layout/sidebar-setting.php:86
+#: inc/woocommerce/customizer/section/layout/woo-layout.php:24
+#: inc/woocommerce/customizer/section/layout/woo-layout.php:47
+#: inc/woocommerce/customizer/section/layout/single-product.php:26
+msgid "Default"
+msgstr "Výchozí"
+
+#: customizer/section/layout/blog-single.php:67
+msgid "Feature Image"
+msgstr "Doporučený obrázek"
+
+#: customizer/section/layout/blog-single.php:65
+msgid "Single Post Structure"
+msgstr "Struktura příspěvku"
+
+#: customizer/section/layout/blog-single.php:39
+#: inc/woocommerce/customizer/section/layout/single-product.php:51
+msgid "Enter Width"
+msgstr "Zadat šířku"
+
+#: customizer/section/layout/blog-single.php:19
+msgid "Single Post Content Width"
+msgstr "Šířka příspěvku"
+
+#: customizer/section/layout/bottom-footer.php:338
+msgid "Top Border"
+msgstr "Horní okraj"
+
+#: customizer/section/layout/sidebar-setting.php:40
+msgid "Page Layout"
+msgstr "Rozložení stránky"
+
+#: customizer/section/layout/sidebar-setting.php:26
+#: customizer/section/layout/sidebar-setting.php:47
+#: customizer/section/layout/sidebar-setting.php:68
+#: customizer/section/layout/sidebar-setting.php:89
+#: inc/woocommerce/customizer/section/layout/woo-layout.php:50
+#: lib/page-meta-box/zita-page-meta-box.php:43
+msgid "Right Sidebar"
+msgstr "Pravý postranní panel"
+
+#: customizer/section/layout/main-header.php:154
+msgid "Button Url"
+msgstr "URL tlačítka"
+
+#: customizer/section/layout/main-header.php:142
+msgid "Button Text"
+msgstr "Text tlačítka"
+
+#: customizer/section/layout/main-header.php:83
+msgid "Button"
+msgstr "Tlačítko"
+
+#: customizer/section/layout/main-header.php:61
+msgid "Disable Menu"
+msgstr "Zakázat Menu"
+
+#: customizer/section/layout/main-header.php:22
+msgid "Header Layout"
+msgstr "Rozložení hlavičky"
+
+#: customizer/section/layout/loader.php:46
+msgid "(You can also use GIF image.)"
+msgstr "(Můžete také využít GIF obrázek.)"
+
+#: customizer/section/layout/main-header.php:223
+#: inc/woocommerce/customizer/section/layout/single-product.php:76
+#: inc/woocommerce/customizer/section/layout/shop-page.php:72
+msgid "center"
+msgstr "střed"
+
+#: customizer/section/layout/main-header.php:249
+msgid "Menu Alignment"
+msgstr "Zarovnání menu"
+
+#: customizer/section/layout/main-header.php:236
+msgid "Menu Label on Small Device"
+msgstr "Menu štítek na menších zařízeních"
+
+#: customizer/section/layout/main-header.php:218
+msgid "Mobile Menu Open"
+msgstr "Otevřené mobilní menu"
+
+#: customizer/section/layout/main-header.php:204
+msgid "Enable Full Width Header"
+msgstr "Povolit plnou šíři hlavičky"
+
+#: customizer/section/layout/main-header.php:193
+msgid "Bottom Border Color"
+msgstr "Barva spodního okraje"
+
+#: customizer/section/layout/main-header.php:172
+msgid "Bottom Border Size"
+msgstr "Velikost spodního okraje"
+
+#: customizer/section/layout/main-header.php:74
+msgid "Last Menu Item"
+msgstr "Poslední položka menu"
+
+#: customizer/customizer-font-selector/class/class-zita-font-selector.php:63
+msgid "Google Fonts"
+msgstr "Google písma"
+
+#: customizer/customizer-font-selector/class/class-zita-font-selector.php:49
+msgid "Standard Fonts"
+msgstr "Standardní písma"
+
+#: customizer/section/typography/base-typography.php:946
+msgid "H6"
+msgstr "H6"
+
+#: customizer/section/typography/base-typography.php:808
+msgid "H5"
+msgstr "H5"
+
+#: customizer/section/typography/base-typography.php:670
+msgid "H4"
+msgstr "H4"
+
+#: customizer/section/typography/base-typography.php:532
+msgid "H3"
+msgstr "H3"
+
+#: customizer/section/typography/base-typography.php:393
+msgid "H2"
+msgstr "H2"
+
+#: lib/page-meta-box/zita-page-meta-box.php:129
+msgid "Enable"
+msgstr "Povolit"
+
+#: lib/page-meta-box/zita-page-meta-box.php:30
+msgid "Zita Setting"
+msgstr "Nastavení zity"
+
+#: lib/theme-option/class-zita-admin-settings.php:415
+msgid "Visit Us"
+msgstr "Navštivte nás"
+
+#: lib/theme-option/class-zita-admin-settings.php:499
+msgid "Submit a Ticket"
+msgstr "Odeslat Tiket"
+
+#: lib/theme-option/class-zita-admin-settings.php:521
+msgid "Get More Options with Zita Pro!"
+msgstr "Získejte více možností se Zitou Pro!"
+
+#: lib/theme-option/class-zita-admin-settings.php:766
+msgid "No plugin specified"
+msgstr "Plugin nespecifikován"
+
+#: lib/theme-option/class-zita-admin-settings.php:787
+msgid "Plugin Successfully Activated"
+msgstr "Plugin úspěšně aktivován"
+
+#: lib/theme-option/class-zita-admin-settings.php:729
+msgid "Easy to use, Fully Customizable, Unique options"
+msgstr "Snadno použitelné, plně flexibilní, s unikátními možnostmi"
+
+#: search.php:29
+msgid "Search Results for: %s"
+msgstr "Výsledky vyhledávání pro: %s"
+
+#: lib/theme-option/class-zita-admin-settings.php:461
+msgid "Join Our Facebook Group"
+msgstr "Navštivte naší Facebook skupinu"
+
+#: lib/theme-option/class-zita-admin-settings.php:485
+msgid "Customer Support"
+msgstr "Uživatelská podpora"
+
+#. translators: %1$s: Zita Theme name.
+#: lib/theme-option/class-zita-admin-settings.php:444
+msgid "%1$s Community"
+msgstr "%1$s Komunita"
+
+#: lib/theme-option/class-zita-admin-settings.php:408
+msgid "Want to know how it works, take a look on this and get whole knowledge about %1$s. Learn %1$s"
+msgstr "Pokud chcete vědět, jak to funguje, podívejte se na toto a získejte široký přehled o %1$s. Poznat %1$s"
+
+#: lib/theme-option/class-zita-admin-settings.php:454
+msgid "Join the community of generous %1$s users.  Get connected, share opinion, ask questions and Help each other!"
+msgstr "Vstupte do komunity velkorysých %1$s uživatelů.  Buďte ve spojení, sdílejte možnosti, ptejte se na otázky a pomáhejte ostatním!"
+
+#: inc/footer-function.php:65 inc/footer-function.php:104
+#: inc/footer-function.php:143 inc/footer-function.php:244
+#: inc/footer-function.php:283 inc/footer-function.php:322
+msgid "Assign footer menu"
+msgstr "Přiřadit footer menu"
+
+#: inc/admin-function.php:37
+msgid "Main"
+msgstr "Hlavní"
+
+#: inc/pagination/pagination.php:60 inc/pagination/pagination.php:70
+#: inc/pagination/pagination.php:80 inc/pagination/pagination.php:88
+msgid "No More Posts"
+msgstr "Žádné další příspěvky"
+
+#: inc/header-function.php:720 inc/header-function.php:786
+msgctxt "text"
+msgid "Search"
+msgstr "Hledat"
+
+#: inc/header-function.php:719 inc/header-function.php:785
+msgctxt "placeholder"
+msgid "Search"
+msgstr "Hledat"
+
+#: inc/header-function.php:535 inc/header-function.php:584
+#: inc/header-function.php:633
+msgid "Assign Bottom Header Menu"
+msgstr "Přiřadit dolní Header Menu"
+
+#: inc/header-function.php:321 inc/header-function.php:377
+#: inc/header-function.php:434
+msgid "Assign Above header menu"
+msgstr "Přiřadit horní Header Menu"
+
+#: inc/header-function.php:334 inc/header-function.php:390
+#: inc/header-function.php:447 inc/header-function.php:548
+#: inc/header-function.php:597 inc/header-function.php:646
+#: inc/footer-function.php:78 inc/footer-function.php:117
+#: inc/footer-function.php:156 inc/footer-function.php:257
+#: inc/footer-function.php:296 inc/footer-function.php:335
+#: inc/footer-function.php:364 inc/footer-function.php:372
+#: inc/footer-function.php:378 inc/footer-function.php:386
+#: inc/footer-function.php:392 inc/footer-function.php:398
+#: inc/footer-function.php:406 inc/footer-function.php:412
+#: inc/footer-function.php:418 inc/footer-function.php:424
+#: inc/footer-function.php:432 inc/footer-function.php:438
+#: inc/footer-function.php:444 inc/footer-function.php:452
+#: inc/footer-function.php:458 inc/footer-function.php:464
+#: inc/footer-function.php:472 inc/footer-function.php:478
+#: inc/footer-function.php:486 inc/footer-function.php:492
+msgid "Add Widget"
+msgstr "Přidat widget"
+
+#: inc/default-string.php:37
+msgid "Start typing and press enter to search"
+msgstr "Začněte psát a stiskněte Enter pro vyhledávání"
+
+#: inc/default-string.php:60
+msgid "By "
+msgstr "Autor:"
+
+#: inc/default-string.php:62
+msgid "1 Comment"
+msgstr "1 komentář"
+
+#. translators: 1: Post type label
+#: inc/default-string.php:70
+msgid "Next %s"
+msgstr "Další %s"
+
+#. translators: 1: Post type label
+#: inc/default-string.php:72
+msgid "Previous %s"
+msgstr "Předchozí %s"
+
+#: inc/default-string.php:56
+msgid "Older Comments"
+msgstr "Starší komentáře"
+
+#: inc/blog-function.php:67
+msgid " min "
+msgstr " min "
+
+#: inc/woocommerce/customizer/section/layout/woo-layout.php:20
+msgid "Container For Woocommerce Page"
+msgstr "Kontejner pro WooCommerce stránku"
+
+#. translators: 1: title.
+#: comments.php:34
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Jedna myšlenka k &ldquo;%1$s&rdquo;"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:40
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s myšlenka k &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s myšlenky k &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s myšlenek k &ldquo;%2$s&rdquo;"
+
+#: inc/admin-function.php:39
+msgid "Header Below Menu"
+msgstr "Header pod menu"
+
+#: inc/admin-function.php:38
+msgid "Header Above Menu"
+msgstr "Header nad menu"
+
+#: inc/woocommerce/customizer/section/layout/cart.php:46
+msgid "Icon & Cart Count & Total"
+msgstr "Ikona & Součet košíku & Celkem"
+
+#: inc/woocommerce/customizer/section/layout/cart.php:45
+msgid "Icon & Cart Count"
+msgstr "Ikona & Součet košíku"
+
+#: inc/woocommerce/customizer/section/layout/single-product.php:163
+msgid "Display up sell product"
+msgstr "Zobrazit upsell produkt"
+
+#: inc/woocommerce/customizer/section/layout/single-product.php:155
+msgid "Up Sell Product"
+msgstr "Upsell produkt"
+
+#: inc/woocommerce/customizer/section/layout/single-product.php:35
+msgid "Force to disable sidebar in single product page."
+msgstr "Vynutit zákaz postranního panelu na stránce produktu."
+
+#: inc/woocommerce/customizer/section/layout/general-sale-badges.php:20
+msgid "On Sale Badge Style"
+msgstr "Styl symbolu Na prodej"
+
+#: inc/default-string.php:54
+msgid "Comment navigation"
+msgstr "Navigace komentáře"
+
+#: inc/default-string.php:32
+msgid "It looks like the link pointing here was faulty. Maybe try searching?"
+msgstr "Vypadá to, že odkaz směřující sem byl chybný. Zkuste vyhledávání."
+
+#: header.php:78 inc/default-string.php:29
+msgid "Skip to content"
+msgstr "Přeskočit k obsahu"
+
+#: inc/admin-function.php:41
+msgid "Footer Below Menu"
+msgstr "Footer pod menu"
+
+#: inc/admin-function.php:40
+msgid "Footer Above Menu"
+msgstr "Footer nad menu"
+
+#: lib/theme-option/class-zita-admin-settings.php:601
+msgid "Visit to Customizer Settings:"
+msgstr "Návštěva \"Customizer Settings\":"
+
+#: lib/theme-option/class-zita-admin-settings.php:492
+msgid "We start with what the customer needs and we work backwards. You're absolutely free to contact us and %1$s team will be happy to help you."
+msgstr "Zajímá nás, co zákazník potřebuje a na základě toho pracujeme. Můžete nás kontaktovat a tým %1$s Vám milerád s čímkoli pomůže."
+
+#: lib/page-meta-box/zita-page-meta-box.php:119
+msgid "Disable Bottom Footer"
+msgstr "Zakázat spodní Footer"
+
+#: lib/page-meta-box/zita-page-meta-box.php:112
+msgid "Disable Footer Widget Area"
+msgstr "Zakázat oblast Footeru určenou pro widgety"
+
+#: lib/page-meta-box/zita-page-meta-box.php:105
+msgid "Disable Above Footer"
+msgstr "Zakázat horní Footer"
+
+#: lib/page-meta-box/zita-page-meta-box.php:98
+msgid "Disable Feature Image"
+msgstr "Zakázat oblíbený obrázek"
+
+#: lib/page-meta-box/zita-page-meta-box.php:91
+msgid "Disable title"
+msgstr "Zakázat název"
+
+#: lib/page-meta-box/zita-page-meta-box.php:84
+msgid "Disable Bottom Header"
+msgstr "Zakázat spodní Header"
+
+#: lib/page-meta-box/zita-page-meta-box.php:77
+msgid "Disable Main Header"
+msgstr "Zakázat hlavní Header"
+
+#: lib/page-meta-box/zita-page-meta-box.php:70
+msgid "Disable Above Header"
+msgstr "Zakázat horní Header"
+
+#: lib/page-meta-box/zita-page-meta-box.php:61
+msgid "Disable section"
+msgstr "Zakázat sekci"
+
+#: lib/page-meta-box/zita-page-meta-box.php:57
+msgid "Full Width/Strectched"
+msgstr "Plná šířka/roztažení"
+
+#: lib/page-meta-box/zita-page-meta-box.php:48
+msgid "Content Layout"
+msgstr "Rozložení obsahu"
+
+#: lib/page-meta-box/zita-page-meta-box.php:41
+#: lib/page-meta-box/zita-page-meta-box.php:53
+#: lib/page-meta-box/zita-page-meta-box.php:128
+msgid "Customizer Setting"
+msgstr "Customizer nastavení"
+
+#: lib/breadcrumbs/breadcrumbs.php:792
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "W"
+
+#: lib/breadcrumbs/breadcrumbs.php:764 lib/breadcrumbs/breadcrumbs.php:1194
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "j"
+
+#: lib/breadcrumbs/breadcrumbs.php:763 lib/breadcrumbs/breadcrumbs.php:819
+#: lib/breadcrumbs/breadcrumbs.php:1190
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "F"
+
+#: lib/breadcrumbs/breadcrumbs.php:762 lib/breadcrumbs/breadcrumbs.php:791
+#: lib/breadcrumbs/breadcrumbs.php:818 lib/breadcrumbs/breadcrumbs.php:845
+#: lib/breadcrumbs/breadcrumbs.php:1186
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: lib/breadcrumbs/breadcrumbs.php:746
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "g a"
+
+#: lib/breadcrumbs/breadcrumbs.php:729
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "i"
+
+#: lib/breadcrumbs/breadcrumbs.php:712
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "g:i a"
+
+#: customizer/extend-customizer/class-zita-wp-customize-section.php:52
+msgid "Customizing"
+msgstr "Přizpůsobování"
+
+#: customizer/extend-customizer/class-zita-wp-customize-section.php:50
+msgid "Customizing &#9656; %s"
+msgstr "Přizpůsobování &#9656; %s"
+
+#: customizer/section/typography/base-typography.php:20
+msgid "Font Subsets"
+msgstr "Podmnožiny fontu"
+
+#: customizer/section/layout/blog-single.php:133
+msgid "Remove Featured Image Padding"
+msgstr "Vymazat vycpávku (padding) doporučeného obrázku"
+
+#: customizer/section/layout/container.php:22
+msgid "Container Width"
+msgstr "Šířka kontejneru"
+
+#: customizer/section/layout/blog-archive.php:344
+msgid "Enter Width in px"
+msgstr "Zadejte šířku v pixelech (px)"
+
+#: customizer/section/layout/blog-archive.php:324
+msgid "Blog Content Width"
+msgstr "Šířka obsahu blogu"
+
+#: customizer/section/layout/blog-archive.php:308
+msgid "Post Meta Separator"
+msgstr "Oddělovač Meta u příspěvku"
+
+#: customizer/section/layout/blog-archive.php:166
+msgid "Excerpt Length"
+msgstr "Délka úryvku"
+
+#: customizer/section/layout/blog-archive.php:152
+msgid "No Content"
+msgstr "Žádný obsah"
+
+#: customizer/section/layout/blog-archive.php:151
+msgid "Excerpt Content"
+msgstr "Úryvek obsahu"
+
+#: customizer/section/layout/blog-archive.php:150
+msgid "Full Content"
+msgstr "Plný obsah"
+
+#: customizer/section/layout/blog-archive.php:146
+msgid "Blog Post Content"
+msgstr "Obsah blogového příspěvku"
+
+#: customizer/section/layout/blog-archive.php:114
+msgid "Blog Date"
+msgstr "Datum u blogu"
+
+#: customizer/section/layout/blog-archive.php:87
+msgid "Remove Featured Image Space\n"
+msgstr "Odstranit prostor u doporučeného obrázku \n"
+
+#: customizer/section/layout/blog-archive.php:75
+msgid "Add Space Between Post"
+msgstr "Vytvořit místo mezi příspěvky"
+
+#: customizer/section/layout/blog-archive.php:62
+msgid "Make First Post Large"
+msgstr "Udělat první příspěvek velký"
+
+#: customizer/section/layout/blog-archive.php:52
+msgid "Four Column"
+msgstr "Čtyři sloupce"
+
+#: customizer/register-panels-and-sections.php:247
+msgid "Font Subset"
+msgstr "Podmnožina fontu"
+
+#: customizer/register-panels-and-sections.php:185
+msgid "Below Footer"
+msgstr "Spodní Footer"
+
+#: customizer/register-panels-and-sections.php:177
+msgid "Widget Footer"
+msgstr "Widget Footer"
+
+#: customizer/register-panels-and-sections.php:169
+msgid "Above Footer"
+msgstr "Horní Footer"
+
+#: customizer/register-panels-and-sections.php:150
+msgid "Footer Widget"
+msgstr "Footer Widget"
+
+#: customizer/register-panels-and-sections.php:158
+msgid "Bottom Footer"
+msgstr "Dolní Footer"
+
+#: customizer/register-panels-and-sections.php:62
+msgid "Above Header"
+msgstr "Horní Header"
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Vypadá to, že v této oblasti nebylo možné nic najít. Zkuste vyhledávání."
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Jaj! Tuto stránku bohužel nelze nalézt."
+
+#: customizer/section/layout/blog-single.php:121
+#: customizer/section/layout/blog-archive.php:130
+msgid "Enable Drop Cap"
+msgstr "Povolit Drop Cap"
+
+#: functions.php:99
+msgid "Add widgets here to appear in your primary sidebar."
+msgstr "Sem přidejte widgety, které se objeví ve Vašem primárním postranním panelu."
+
+#: functions.php:117 functions.php:126 functions.php:135
+msgid "Add widgets here to appear in top header."
+msgstr "Sem přidejte widgety, které se objeví v horním Headeru"
+
+#: functions.php:124
+msgid "Above Header Second Widget"
+msgstr "Druhý widget horního Headeru"
+
+#: functions.php:115
+msgid "Above Header First Widget"
+msgstr "První widget horního Headeru"
+
+#: functions.php:133
+msgid "Above Header Third Widget"
+msgstr "Třetí widget horního Headeru"
+
+#: functions.php:142
+msgid "Below Header First Widget"
+msgstr "První widget spodního Headeru"
+
+#: functions.php:144 functions.php:153 functions.php:162
+msgid "Add widgets here to appear in below header."
+msgstr "Sem přidejte widgety, které se objeví ve spodním Headeru."
+
+#: functions.php:151
+msgid "Below Header Second Widget"
+msgstr "Druhý widget spodního Headeru"
+
+#: functions.php:160
+msgid "Below Header Third Widget"
+msgstr "Třetí widget spodního Headeru"
+
+#: functions.php:169
+msgid "Main Header Widget"
+msgstr "Widget hlavního Headeru"
+
+#: functions.php:178
+msgid "Footer Top First Widget"
+msgstr "První widget horního Footeru"
+
+#: functions.php:171
+msgid "Add widgets here to appear in main header."
+msgstr "Sem přidejte widgety, které se objeví v hlavním Headeru."
+
+#: functions.php:180 functions.php:189 functions.php:198
+msgid "Add widgets here to appear in Top Footer"
+msgstr "Sem přidejte widgety, které se objeví v horním Footeru"
+
+#: functions.php:187
+msgid "Footer Top Second Widget"
+msgstr "Druhý widget horního Footeru"
+
+#: functions.php:196
+msgid "Footer Top Third Widget"
+msgstr "Třetí widget horního Footeru"
+
+#: functions.php:205
+msgid "Footer Below First Widget"
+msgstr "První widget horního Footeru"
+
+#: functions.php:207 functions.php:216
+msgid "Add widgets here to appear in below footer"
+msgstr "Sem přidejte widgety, které se objeví ve spodním Footeru"
+
+#: functions.php:214
+msgid "Footer Below Second Widget"
+msgstr "Druhý widget spodního Footeru"
+
+#: functions.php:223
+msgid "Footer Below Third Widget"
+msgstr "Třetí widget spodního Footeru"
+
+#: functions.php:233
+msgid "Footer Widget Area %d"
+msgstr "Oblast Footer widgetů %d"
+
+#: functions.php:225
+msgid "Add widgets here to appear in below Footer"
+msgstr "Sem přidejte widgety, které se objeví ve spodním Footeru"
+
+#: customizer/section/layout/container.php:43
+msgid "Default Container"
+msgstr "Výchozí kontejner"
+
+#: customizer/section/layout/sticky-header.php:31
+msgid "(like archive,404,search,shop, product page etc.)"
+msgstr "(jako archiv, 404, vyhledávání, obchod, stránka produktu apod.)"
+
+#: customizer/section/layout/sidebar-setting.php:82
+msgid "Blog Post Archives"
+msgstr "Archiv blogových příspěvků"
+
+#: customizer/section/layout/sidebar-setting.php:108
+msgid "Sidebar Width (%)"
+msgstr "Šířka postranního panelu"
+
+#: customizer/section/layout/container.php:63
+msgid "Container For Page"
+msgstr "Kontejner pro stránku"
+
+#: customizer/section/layout/container.php:83
+msgid "Container For Blog / Archives"
+msgstr "Kontejner pro Blog / Archivy"
+
+#: customizer/section/layout/container.php:47
+#: customizer/section/layout/container.php:68
+#: customizer/section/layout/container.php:88
+#: customizer/section/layout/container.php:108
+#: inc/woocommerce/customizer/section/layout/woo-layout.php:25
+#: lib/page-meta-box/zita-page-meta-box.php:54
+msgid "Boxed"
+msgstr "V boxu"
+
+#: customizer/section/layout/container.php:48
+#: customizer/section/layout/container.php:69
+#: customizer/section/layout/container.php:89
+#: customizer/section/layout/container.php:109
+#: inc/woocommerce/customizer/section/layout/woo-layout.php:26
+#: lib/page-meta-box/zita-page-meta-box.php:55
+msgid "Content Boxed"
+msgstr "Obsah v boxu"
+
+#: customizer/section/layout/container.php:50
+#: customizer/section/layout/container.php:71
+#: customizer/section/layout/container.php:91
+#: customizer/section/layout/container.php:111
+#: inc/woocommerce/customizer/section/layout/woo-layout.php:28
+msgid "Full Width/Stretched"
+msgstr "Plná šířka/roztažení"
+
+#: customizer/section/layout/container.php:49
+#: customizer/section/layout/container.php:70
+#: customizer/section/layout/container.php:90
+#: customizer/section/layout/container.php:110
+#: inc/woocommerce/customizer/section/layout/woo-layout.php:27
+#: lib/page-meta-box/zita-page-meta-box.php:56
+msgid "Full Width/Contained"
+msgstr "Plná šířka/obsah"
+
+#: customizer/section/layout/blog-single.php:108
+msgid "Single Post Meta Separator"
+msgstr "Oddělovač Meta u příspěvků"
+
+#: customizer/section/layout/container.php:103
+msgid "Container For Blog Single"
+msgstr "Kontejner pro blog jednotlivě"
+
+#: customizer/section/layout/main-header.php:254
+msgid "Stack"
+msgstr "Zásobník"
+
+#: customizer/section/layout/main-header.php:253
+msgid "Inline"
+msgstr "Inline"
+
+#: customizer/section/layout/blog-single.php:87
+msgid "Single Post Meta"
+msgstr "Meta jednotlivého příspěvku"
+
+#: inc/default-string.php:51
+msgid "Email*"
+msgstr "Email*"
+
+#. Author of the theme
+msgid "WpZita Team"
+msgstr "Tým WpZita"
+
+#. Theme URI of the theme
+#: inc/footer-function.php:232
+msgid "https://wpzita.com/"
+msgstr "https://wpzita.com/"
